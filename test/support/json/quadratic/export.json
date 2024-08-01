@@ -1,0 +1,852 @@
+{
+  "decision": {
+    "info": null,
+    "options": [
+      {
+        "enabled": true,
+        "id": 50399,
+        "info": null,
+        "sort": 0,
+        "title": "0 Seeds",
+        "slug": "fifth_seed0",
+        "deleted": false,
+        "option_category_id": 66839,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50400,
+        "info": null,
+        "sort": 0,
+        "title": "1 Seeds",
+        "slug": "fifth_seed1",
+        "deleted": false,
+        "option_category_id": 66839,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50403,
+        "info": null,
+        "sort": 0,
+        "title": "16 Seeds",
+        "slug": "fifth_seed16",
+        "deleted": false,
+        "option_category_id": 66839,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50404,
+        "info": null,
+        "sort": 0,
+        "title": "25 Seeds",
+        "slug": "fifth_seed25",
+        "deleted": false,
+        "option_category_id": 66839,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50401,
+        "info": null,
+        "sort": 0,
+        "title": "4 Seeds",
+        "slug": "fifth_seed4",
+        "deleted": false,
+        "option_category_id": 66839,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50402,
+        "info": null,
+        "sort": 0,
+        "title": "9 Seeds",
+        "slug": "fifth_seed9",
+        "deleted": false,
+        "option_category_id": 66839,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50375,
+        "info": null,
+        "sort": 0,
+        "title": "0 Seeds",
+        "slug": "first_seed0",
+        "deleted": false,
+        "option_category_id": 66835,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50376,
+        "info": null,
+        "sort": 0,
+        "title": "1 Seeds",
+        "slug": "first_seed1",
+        "deleted": false,
+        "option_category_id": 66835,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50379,
+        "info": null,
+        "sort": 0,
+        "title": "16 Seeds",
+        "slug": "first_seed16",
+        "deleted": false,
+        "option_category_id": 66835,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50380,
+        "info": null,
+        "sort": 0,
+        "title": "25 Seeds",
+        "slug": "first_seed25",
+        "deleted": false,
+        "option_category_id": 66835,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50377,
+        "info": null,
+        "sort": 0,
+        "title": "4 Seeds",
+        "slug": "first_seed4",
+        "deleted": false,
+        "option_category_id": 66835,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50378,
+        "info": null,
+        "sort": 0,
+        "title": "9 Seeds",
+        "slug": "first_seed9",
+        "deleted": false,
+        "option_category_id": 66835,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50393,
+        "info": null,
+        "sort": 0,
+        "title": "0 Seeds",
+        "slug": "fourth_seed0",
+        "deleted": false,
+        "option_category_id": 66838,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50394,
+        "info": null,
+        "sort": 0,
+        "title": "1 Seeds",
+        "slug": "fourth_seed1",
+        "deleted": false,
+        "option_category_id": 66838,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50397,
+        "info": null,
+        "sort": 0,
+        "title": "16 Seeds",
+        "slug": "fourth_seed16",
+        "deleted": false,
+        "option_category_id": 66838,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50398,
+        "info": null,
+        "sort": 0,
+        "title": "25 Seeds",
+        "slug": "fourth_seed25",
+        "deleted": false,
+        "option_category_id": 66838,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50395,
+        "info": null,
+        "sort": 0,
+        "title": "4 Seeds",
+        "slug": "fourth_seed4",
+        "deleted": false,
+        "option_category_id": 66838,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50396,
+        "info": null,
+        "sort": 0,
+        "title": "9 Seeds",
+        "slug": "fourth_seed9",
+        "deleted": false,
+        "option_category_id": 66838,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50381,
+        "info": null,
+        "sort": 0,
+        "title": "0 Seeds",
+        "slug": "second_seed0",
+        "deleted": false,
+        "option_category_id": 66836,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50382,
+        "info": null,
+        "sort": 0,
+        "title": "1 Seeds",
+        "slug": "second_seed1",
+        "deleted": false,
+        "option_category_id": 66836,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50385,
+        "info": null,
+        "sort": 0,
+        "title": "16 Seeds",
+        "slug": "second_seed16",
+        "deleted": false,
+        "option_category_id": 66836,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50386,
+        "info": null,
+        "sort": 0,
+        "title": "25 Seeds",
+        "slug": "second_seed25",
+        "deleted": false,
+        "option_category_id": 66836,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50383,
+        "info": null,
+        "sort": 0,
+        "title": "4 Seeds",
+        "slug": "second_seed4",
+        "deleted": false,
+        "option_category_id": 66836,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50384,
+        "info": null,
+        "sort": 0,
+        "title": "9 Seeds",
+        "slug": "second_seed9",
+        "deleted": false,
+        "option_category_id": 66836,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50387,
+        "info": null,
+        "sort": 0,
+        "title": "0 Seeds",
+        "slug": "third_seed0",
+        "deleted": false,
+        "option_category_id": 66837,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50388,
+        "info": null,
+        "sort": 0,
+        "title": "1 Seeds",
+        "slug": "third_seed1",
+        "deleted": false,
+        "option_category_id": 66837,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50391,
+        "info": null,
+        "sort": 0,
+        "title": "16 Seeds",
+        "slug": "third_seed16",
+        "deleted": false,
+        "option_category_id": 66837,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50392,
+        "info": null,
+        "sort": 0,
+        "title": "25 Seeds",
+        "slug": "third_seed25",
+        "deleted": false,
+        "option_category_id": 66837,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50389,
+        "info": null,
+        "sort": 0,
+        "title": "4 Seeds",
+        "slug": "third_seed4",
+        "deleted": false,
+        "option_category_id": 66837,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50390,
+        "info": null,
+        "sort": 0,
+        "title": "9 Seeds",
+        "slug": "third_seed9",
+        "deleted": false,
+        "option_category_id": 66837,
+        "results_title": null,
+        "determinative": false
+      }
+    ],
+    "title": "Quad Voting Project",
+    "keywords": ["quadratic"],
+    "variables": [
+      {
+        "id": 59921,
+        "title": "Total Seeds",
+        "slug": "total_seeds",
+        "method": "sum_selected",
+        "option_detail_id": 45345,
+        "option_filter_id": null
+      },
+      {
+        "id": 59922,
+        "title": "Avg Seeds",
+        "slug": "avg_seeds",
+        "method": "mean_selected",
+        "option_detail_id": 45345,
+        "option_filter_id": null
+      },
+      {
+        "id": 59923,
+        "title": "Count All Options",
+        "slug": "count_all_options",
+        "method": "count_selected",
+        "option_detail_id": null,
+        "option_filter_id": 54515
+      },
+      {
+        "id": 59924,
+        "title": "Count Fifth",
+        "slug": "count_fifth",
+        "method": "count_selected",
+        "option_detail_id": null,
+        "option_filter_id": 54516
+      },
+      {
+        "id": 59925,
+        "title": "Count First",
+        "slug": "count_first",
+        "method": "count_selected",
+        "option_detail_id": null,
+        "option_filter_id": 54520
+      },
+      {
+        "id": 59926,
+        "title": "Count Fourth",
+        "slug": "count_fourth",
+        "method": "count_selected",
+        "option_detail_id": null,
+        "option_filter_id": 54517
+      },
+      {
+        "id": 59927,
+        "title": "Count Second",
+        "slug": "count_second",
+        "method": "count_selected",
+        "option_detail_id": null,
+        "option_filter_id": 54519
+      },
+      {
+        "id": 59928,
+        "title": "Count Third",
+        "slug": "count_third",
+        "method": "count_selected",
+        "option_detail_id": null,
+        "option_filter_id": 54518
+      },
+      {
+        "id": 59929,
+        "title": "Count Uncategorized Options",
+        "slug": "count_uncategorized_options",
+        "method": "count_selected",
+        "option_detail_id": null,
+        "option_filter_id": 54521
+      }
+    ],
+    "constraints": [],
+    "language": "en",
+    "calculations": [],
+    "criterias": [
+      {
+        "id": 22875,
+        "info": null,
+        "sort": 0,
+        "title": "Approval",
+        "slug": "approval",
+        "bins": 5,
+        "support_only": false,
+        "apply_participant_weights": false,
+        "weighting": 50
+      }
+    ],
+    "option_categories": [
+      {
+        "id": 66839,
+        "info": "info for Fifth",
+        "xor": false,
+        "sort": 0,
+        "title": "Fifth",
+        "keywords": "[]",
+        "slug": "fifth",
+        "scoring_mode": "triangle",
+        "quadratic": true,
+        "apply_participant_weights": false,
+        "budget_percent": null,
+        "flat_fee": null,
+        "results_title": "Result Fifth",
+        "triangle_base": 5,
+        "vote_on_percent": false,
+        "voting_style": "one",
+        "weighting": 100,
+        "default_high_option_id": 50399,
+        "default_low_option_id": 50399,
+        "primary_detail_id": 45345
+      },
+      {
+        "id": 66835,
+        "info": "info for First",
+        "xor": false,
+        "sort": 0,
+        "title": "First",
+        "keywords": "[]",
+        "slug": "first",
+        "scoring_mode": "triangle",
+        "quadratic": true,
+        "apply_participant_weights": false,
+        "budget_percent": null,
+        "flat_fee": null,
+        "results_title": "Result First",
+        "triangle_base": 5,
+        "vote_on_percent": false,
+        "voting_style": "one",
+        "weighting": 100,
+        "default_high_option_id": 50375,
+        "default_low_option_id": 50375,
+        "primary_detail_id": 45345
+      },
+      {
+        "id": 66838,
+        "info": "info for Fourth",
+        "xor": false,
+        "sort": 0,
+        "title": "Fourth",
+        "keywords": "[]",
+        "slug": "fourth",
+        "scoring_mode": "triangle",
+        "quadratic": true,
+        "apply_participant_weights": false,
+        "budget_percent": null,
+        "flat_fee": null,
+        "results_title": "Result Fourth",
+        "triangle_base": 5,
+        "vote_on_percent": false,
+        "voting_style": "one",
+        "weighting": 100,
+        "default_high_option_id": 50393,
+        "default_low_option_id": 50393,
+        "primary_detail_id": 45345
+      },
+      {
+        "id": 66836,
+        "info": "info for Second",
+        "xor": false,
+        "sort": 0,
+        "title": "Second",
+        "keywords": "[]",
+        "slug": "second",
+        "scoring_mode": "triangle",
+        "quadratic": true,
+        "apply_participant_weights": false,
+        "budget_percent": null,
+        "flat_fee": null,
+        "results_title": "Result Second",
+        "triangle_base": 5,
+        "vote_on_percent": false,
+        "voting_style": "one",
+        "weighting": 100,
+        "default_high_option_id": 50381,
+        "default_low_option_id": 50381,
+        "primary_detail_id": 45345
+      },
+      {
+        "id": 66837,
+        "info": "info for Third",
+        "xor": false,
+        "sort": 0,
+        "title": "Third",
+        "keywords": "[]",
+        "slug": "third",
+        "scoring_mode": "triangle",
+        "quadratic": true,
+        "apply_participant_weights": false,
+        "budget_percent": null,
+        "flat_fee": null,
+        "results_title": "Result Third",
+        "triangle_base": 5,
+        "vote_on_percent": false,
+        "voting_style": "one",
+        "weighting": 100,
+        "default_high_option_id": 50387,
+        "default_low_option_id": 50387,
+        "primary_detail_id": 45345
+      },
+      {
+        "id": 66834,
+        "info": "info for Uncategorized Options",
+        "xor": false,
+        "sort": 0,
+        "title": "Uncategorized Options",
+        "keywords": "[]",
+        "slug": "uncategorized",
+        "scoring_mode": "none",
+        "quadratic": false,
+        "apply_participant_weights": true,
+        "budget_percent": null,
+        "flat_fee": null,
+        "results_title": "Result Uncategorized Options",
+        "triangle_base": 2,
+        "vote_on_percent": false,
+        "voting_style": "one",
+        "weighting": 100,
+        "default_high_option_id": null,
+        "default_low_option_id": null,
+        "primary_detail_id": null
+      }
+    ],
+    "option_details": [
+      {
+        "id": 45345,
+        "public": true,
+        "sort": 0,
+        "format": "float",
+        "title": "Seeds",
+        "slug": "seeds",
+        "display_hint": null,
+        "input_hint": null
+      }
+    ],
+    "option_detail_values": [
+      {
+        "value": "0",
+        "option_detail_id": 45345,
+        "option_id": 50375
+      },
+      {
+        "value": "1",
+        "option_detail_id": 45345,
+        "option_id": 50376
+      },
+      {
+        "value": "4",
+        "option_detail_id": 45345,
+        "option_id": 50377
+      },
+      {
+        "value": "9",
+        "option_detail_id": 45345,
+        "option_id": 50378
+      },
+      {
+        "value": "16",
+        "option_detail_id": 45345,
+        "option_id": 50379
+      },
+      {
+        "value": "25",
+        "option_detail_id": 45345,
+        "option_id": 50380
+      },
+      {
+        "value": "0",
+        "option_detail_id": 45345,
+        "option_id": 50381
+      },
+      {
+        "value": "1",
+        "option_detail_id": 45345,
+        "option_id": 50382
+      },
+      {
+        "value": "4",
+        "option_detail_id": 45345,
+        "option_id": 50383
+      },
+      {
+        "value": "9",
+        "option_detail_id": 45345,
+        "option_id": 50384
+      },
+      {
+        "value": "16",
+        "option_detail_id": 45345,
+        "option_id": 50385
+      },
+      {
+        "value": "25",
+        "option_detail_id": 45345,
+        "option_id": 50386
+      },
+      {
+        "value": "0",
+        "option_detail_id": 45345,
+        "option_id": 50387
+      },
+      {
+        "value": "1",
+        "option_detail_id": 45345,
+        "option_id": 50388
+      },
+      {
+        "value": "4",
+        "option_detail_id": 45345,
+        "option_id": 50389
+      },
+      {
+        "value": "9",
+        "option_detail_id": 45345,
+        "option_id": 50390
+      },
+      {
+        "value": "16",
+        "option_detail_id": 45345,
+        "option_id": 50391
+      },
+      {
+        "value": "25",
+        "option_detail_id": 45345,
+        "option_id": 50392
+      },
+      {
+        "value": "0",
+        "option_detail_id": 45345,
+        "option_id": 50393
+      },
+      {
+        "value": "1",
+        "option_detail_id": 45345,
+        "option_id": 50394
+      },
+      {
+        "value": "4",
+        "option_detail_id": 45345,
+        "option_id": 50395
+      },
+      {
+        "value": "9",
+        "option_detail_id": 45345,
+        "option_id": 50396
+      },
+      {
+        "value": "16",
+        "option_detail_id": 45345,
+        "option_id": 50397
+      },
+      {
+        "value": "25",
+        "option_detail_id": 45345,
+        "option_id": 50398
+      },
+      {
+        "value": "0",
+        "option_detail_id": 45345,
+        "option_id": 50399
+      },
+      {
+        "value": "1",
+        "option_detail_id": 45345,
+        "option_id": 50400
+      },
+      {
+        "value": "4",
+        "option_detail_id": 45345,
+        "option_id": 50401
+      },
+      {
+        "value": "9",
+        "option_detail_id": 45345,
+        "option_id": 50402
+      },
+      {
+        "value": "16",
+        "option_detail_id": 45345,
+        "option_id": 50403
+      },
+      {
+        "value": "25",
+        "option_detail_id": 45345,
+        "option_id": 50404
+      }
+    ],
+    "option_filters": [
+      {
+        "id": 54515,
+        "title": "All Options",
+        "match_value": "",
+        "slug": "all_options",
+        "match_mode": "all_options",
+        "option_category_id": null,
+        "option_detail_id": null
+      },
+      {
+        "id": 54516,
+        "title": "Fifth",
+        "match_value": "",
+        "slug": "fifth",
+        "match_mode": "in_category",
+        "option_category_id": 66839,
+        "option_detail_id": null
+      },
+      {
+        "id": 54520,
+        "title": "First",
+        "match_value": "",
+        "slug": "first",
+        "match_mode": "in_category",
+        "option_category_id": 66835,
+        "option_detail_id": null
+      },
+      {
+        "id": 54517,
+        "title": "Fourth",
+        "match_value": "",
+        "slug": "fourth",
+        "match_mode": "in_category",
+        "option_category_id": 66838,
+        "option_detail_id": null
+      },
+      {
+        "id": 54519,
+        "title": "Second",
+        "match_value": "",
+        "slug": "second",
+        "match_mode": "in_category",
+        "option_category_id": 66836,
+        "option_detail_id": null
+      },
+      {
+        "id": 54518,
+        "title": "Third",
+        "match_value": "",
+        "slug": "third",
+        "match_mode": "in_category",
+        "option_category_id": 66837,
+        "option_detail_id": null
+      },
+      {
+        "id": 54521,
+        "title": "Uncategorized Options",
+        "match_value": "",
+        "slug": "uncategorized-options",
+        "match_mode": "in_category",
+        "option_category_id": 66834,
+        "option_detail_id": null
+      }
+    ],
+    "scenario_configs": [
+      {
+        "enabled": true,
+        "id": 16293,
+        "ttl": 0,
+        "title": "group",
+        "slug": "group",
+        "bins": 5,
+        "ci": "0.5000000",
+        "engine_timeout": 10000,
+        "max_scenarios": 10,
+        "normalize_influents": false,
+        "normalize_satisfaction": true,
+        "per_option_satisfaction": false,
+        "quad_cutoff": 7500,
+        "quad_max_allocation": 50000,
+        "quad_round_to": 5000,
+        "quad_seed_percent": 0.75,
+        "quad_total_available": 580000,
+        "quad_user_seeds": 125,
+        "quad_vote_percent": 0.25,
+        "quadratic": true,
+        "skip_solver": false,
+        "support_only": false,
+        "tipping_point": "0.3333000",
+        "solve_interval": 3600000
+      }
+    ],
+    "slug": "quad_voting",
+    "exported_at": "2024-06-20T03:45:38.082262Z"
+  }
+}

@@ -1,0 +1,757 @@
+{
+  "decision": {
+    "info": "<p><b>Pizza</b> for lunch.</p>",
+    "options": [
+      {
+        "enabled": true,
+        "id": 50924,
+        "info": "Cheese, Tomatoe Sauce, Crust. In large size.",
+        "sort": 0,
+        "title": "Large Cheese",
+        "slug": "large_cheese",
+        "deleted": false,
+        "option_category_id": 66996,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50926,
+        "info": "Mèat on mèat on mèat - a carnivore's delight!",
+        "sort": 0,
+        "title": "Mèat Lovers",
+        "slug": "mèat_lovers",
+        "deleted": false,
+        "option_category_id": 66995,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50923,
+        "info": "The classic combination, a perennial favorite.",
+        "sort": 0,
+        "title": "Pepperoni Mushroom",
+        "slug": "pepperoni_mushroom",
+        "deleted": false,
+        "option_category_id": 66995,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50925,
+        "info": "Cheese. Tomatoe Sauce. Crust. All you need.",
+        "sort": 0,
+        "title": "Regular Cheese",
+        "slug": "regular_cheese",
+        "deleted": false,
+        "option_category_id": 66996,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50927,
+        "info": "Peppers, Onions and Tomatoes with a White Garlic sauce.",
+        "sort": 0,
+        "title": "Veggie Lovers",
+        "slug": "veggie_lovers",
+        "deleted": false,
+        "option_category_id": 66996,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50928,
+        "info": "XOR example 1",
+        "sort": 0,
+        "title": "XOR 1",
+        "slug": "xor-1",
+        "deleted": false,
+        "option_category_id": 66997,
+        "results_title": null,
+        "determinative": false
+      },
+      {
+        "enabled": true,
+        "id": 50929,
+        "info": "XOR example 2",
+        "sort": 0,
+        "title": "XOR 2",
+        "slug": "xor-2",
+        "deleted": false,
+        "option_category_id": 66997,
+        "results_title": null,
+        "determinative": false
+      }
+    ],
+    "title": "Pizza Project",
+    "keywords": ["example", "_qa"],
+    "variables": [
+      {
+        "id": 60252,
+        "title": "Count All Options",
+        "method": "count_selected",
+        "slug": "count_all_options",
+        "option_detail_id": null,
+        "option_filter_id": 54760
+      },
+      {
+        "id": 60256,
+        "title": "Total Cost",
+        "method": "sum_selected",
+        "slug": "total_cost",
+        "option_detail_id": 45430,
+        "option_filter_id": null
+      },
+      {
+        "id": 60257,
+        "title": "Total Inches",
+        "method": "sum_selected",
+        "slug": "total_inches",
+        "option_detail_id": 45433,
+        "option_filter_id": null
+      },
+      {
+        "id": 60253,
+        "title": "Count Vegetarian Yes",
+        "method": "count_selected",
+        "slug": "count_vegetarian_yes",
+        "option_detail_id": null,
+        "option_filter_id": 54762
+      },
+      {
+        "id": 60254,
+        "title": "Count Vegetarian No",
+        "method": "count_selected",
+        "slug": "count_vegetarian_no",
+        "option_detail_id": null,
+        "option_filter_id": 54761
+      },
+      {
+        "id": 60255,
+        "title": "Count Cheese Yes",
+        "method": "count_selected",
+        "slug": "count_cheese_yes",
+        "option_detail_id": null,
+        "option_filter_id": 54763
+      },
+      {
+        "id": 60258,
+        "title": "Count Vegetarian",
+        "method": "count_selected",
+        "slug": "count_vegetarian",
+        "option_detail_id": null,
+        "option_filter_id": 54767
+      },
+      {
+        "id": 60259,
+        "title": "Count Uncategorized Options",
+        "method": "count_selected",
+        "slug": "count_uncategorized_options",
+        "option_detail_id": null,
+        "option_filter_id": 54769
+      },
+      {
+        "id": 60260,
+        "title": "Count Mèat",
+        "method": "count_selected",
+        "slug": "count_m_at",
+        "option_detail_id": null,
+        "option_filter_id": 54768
+      },
+      {
+        "id": 60261,
+        "title": "Count Cheese No",
+        "method": "count_selected",
+        "slug": "count_cheese_no",
+        "option_detail_id": null,
+        "option_filter_id": 54764
+      },
+      {
+        "id": 60262,
+        "title": "Avg Inches",
+        "method": "mean_selected",
+        "slug": "avg_inches",
+        "option_detail_id": 45433,
+        "option_filter_id": null
+      },
+      {
+        "id": 60263,
+        "title": "Avg Cost",
+        "method": "mean_selected",
+        "slug": "avg_cost",
+        "option_detail_id": 45430,
+        "option_filter_id": null
+      },
+      {
+        "id": 60264,
+        "title": "Count xorCat",
+        "method": "count_selected",
+        "slug": "count_xorcat",
+        "option_detail_id": null,
+        "option_filter_id": 54766
+      },
+      {
+        "id": 60265,
+        "title": "Count xorCat2",
+        "method": "count_selected",
+        "slug": "count_xorcat2",
+        "option_detail_id": null,
+        "option_filter_id": 54765
+      }
+    ],
+    "constraints": [
+      {
+        "enabled": true,
+        "id": 18462,
+        "title": "Max Cost $90",
+        "operator": "less_than_or_equal_to",
+        "slug": "budget",
+        "calculation_id": 13479,
+        "option_filter_id": 54760,
+        "variable_id": null,
+        "rhs": 9.1e4,
+        "lhs": null,
+        "relaxable": false
+      },
+      {
+        "enabled": true,
+        "id": 18464,
+        "title": "Feed at least 2 Mèateater",
+        "operator": "greater_than_or_equal_to",
+        "slug": "mèat_fed",
+        "calculation_id": 13480,
+        "option_filter_id": 54761,
+        "variable_id": null,
+        "rhs": 2.0,
+        "lhs": null,
+        "relaxable": false
+      },
+      {
+        "enabled": true,
+        "id": 18461,
+        "title": "Require one Mèat",
+        "operator": "greater_than_or_equal_to",
+        "slug": "mèat_min",
+        "calculation_id": null,
+        "option_filter_id": 54760,
+        "variable_id": 60254,
+        "rhs": 1.0,
+        "lhs": null,
+        "relaxable": false
+      },
+      {
+        "enabled": true,
+        "id": 18459,
+        "title": "Require One Cheese",
+        "operator": "greater_than_or_equal_to",
+        "slug": "one_cheese",
+        "calculation_id": null,
+        "option_filter_id": 54760,
+        "variable_id": 60255,
+        "rhs": 1.0,
+        "lhs": null,
+        "relaxable": false
+      },
+      {
+        "enabled": true,
+        "id": 18463,
+        "title": "Feed at least 2 Vegetarian",
+        "operator": "greater_than_or_equal_to",
+        "slug": "veg_fed",
+        "calculation_id": 13480,
+        "option_filter_id": 54762,
+        "variable_id": null,
+        "rhs": 2.0,
+        "lhs": null,
+        "relaxable": false
+      },
+      {
+        "enabled": true,
+        "id": 18460,
+        "title": "Require one Veggie",
+        "operator": "greater_than_or_equal_to",
+        "slug": "veg_min",
+        "calculation_id": null,
+        "option_filter_id": 54760,
+        "variable_id": 60253,
+        "rhs": 1.0,
+        "lhs": null,
+        "relaxable": false
+      }
+    ],
+    "language": "en",
+    "slug": "pizza-project",
+    "calculations": [
+      {
+        "id": 13480,
+        "public": false,
+        "sort": 0,
+        "title": "# Fed",
+        "slug": "feeds",
+        "display_hint": "integer",
+        "expression": " total_inches * total_inches * ( 3.14 / 4 ) / 14 - ( 0.2 * count_cheese_yes ) ",
+        "personal_results_title": "# Fed"
+      },
+      {
+        "id": 13481,
+        "public": true,
+        "sort": 0,
+        "title": "# of Pizzas",
+        "slug": "pizza_count",
+        "display_hint": "integer",
+        "expression": " count_all_options ",
+        "personal_results_title": "# Pizza"
+      },
+      {
+        "id": 13479,
+        "public": true,
+        "sort": 0,
+        "title": "Total Cost with Tip",
+        "slug": "total_cost",
+        "display_hint": "$",
+        "expression": " total_cost * 1.20 ",
+        "personal_results_title": "with Tip"
+      }
+    ],
+    "criterias": [
+      {
+        "id": 22919,
+        "info": null,
+        "sort": 0,
+        "title": "Taste",
+        "slug": "taste",
+        "bins": 5,
+        "support_only": false,
+        "apply_participant_weights": false,
+        "weighting": 32
+      },
+      {
+        "id": 22918,
+        "info": null,
+        "sort": 0,
+        "title": "Value",
+        "slug": "value",
+        "bins": 5,
+        "support_only": true,
+        "apply_participant_weights": true,
+        "weighting": 84
+      }
+    ],
+    "option_filters": [
+      {
+        "id": 54760,
+        "title": "All Options",
+        "match_value": "",
+        "slug": "all_options",
+        "option_category_id": null,
+        "option_detail_id": null,
+        "match_mode": "all_options"
+      },
+      {
+        "id": 54764,
+        "title": "Cheese No",
+        "match_value": "false",
+        "slug": "cheese-no",
+        "option_category_id": null,
+        "option_detail_id": 45431,
+        "match_mode": "equals"
+      },
+      {
+        "id": 54763,
+        "title": "Cheese Yes",
+        "match_value": "true",
+        "slug": "cheese-yes",
+        "option_category_id": null,
+        "option_detail_id": 45431,
+        "match_mode": "equals"
+      },
+      {
+        "id": 54768,
+        "title": "Mèat",
+        "match_value": "",
+        "slug": "mèat",
+        "option_category_id": 66995,
+        "option_detail_id": null,
+        "match_mode": "in_category"
+      },
+      {
+        "id": 54769,
+        "title": "Uncategorized Options",
+        "match_value": "",
+        "slug": "uncategorized-options",
+        "option_category_id": 66994,
+        "option_detail_id": null,
+        "match_mode": "in_category"
+      },
+      {
+        "id": 54767,
+        "title": "Vegetarian",
+        "match_value": "",
+        "slug": "vegetarian",
+        "option_category_id": 66996,
+        "option_detail_id": null,
+        "match_mode": "in_category"
+      },
+      {
+        "id": 54761,
+        "title": "Vegetarian No",
+        "match_value": "false",
+        "slug": "vegetarian-no",
+        "option_category_id": null,
+        "option_detail_id": 45432,
+        "match_mode": "equals"
+      },
+      {
+        "id": 54762,
+        "title": "Vegetarian Yes",
+        "match_value": "true",
+        "slug": "vegetarian-yes",
+        "option_category_id": null,
+        "option_detail_id": 45432,
+        "match_mode": "equals"
+      },
+      {
+        "id": 54766,
+        "title": "xorCat",
+        "match_value": "",
+        "slug": "xorcat",
+        "option_category_id": 66997,
+        "option_detail_id": null,
+        "match_mode": "in_category"
+      },
+      {
+        "id": 54765,
+        "title": "xorCat2",
+        "match_value": "",
+        "slug": "xorcat2",
+        "option_category_id": 66998,
+        "option_detail_id": null,
+        "match_mode": "in_category"
+      }
+    ],
+    "option_categories": [
+      {
+        "id": 66995,
+        "info": "info for Mèat",
+        "xor": false,
+        "sort": 0,
+        "title": "Mèat",
+        "keywords": "[]",
+        "slug": "mèat",
+        "quadratic": false,
+        "apply_participant_weights": false,
+        "budget_percent": null,
+        "flat_fee": null,
+        "results_title": "Result Mèat",
+        "scoring_mode": "none",
+        "triangle_base": 1,
+        "vote_on_percent": false,
+        "voting_style": "one",
+        "weighting": 100,
+        "default_high_option_id": null,
+        "default_low_option_id": null,
+        "primary_detail_id": null
+      },
+      {
+        "id": 66994,
+        "info": "info for Uncategorized Options",
+        "xor": false,
+        "sort": 0,
+        "title": "Uncategorized Options",
+        "keywords": "[]",
+        "slug": "uncategorized",
+        "quadratic": false,
+        "apply_participant_weights": false,
+        "budget_percent": null,
+        "flat_fee": null,
+        "results_title": "Result Uncategorized Options",
+        "scoring_mode": "none",
+        "triangle_base": 1,
+        "vote_on_percent": false,
+        "voting_style": "one",
+        "weighting": 100,
+        "default_high_option_id": null,
+        "default_low_option_id": null,
+        "primary_detail_id": null
+      },
+      {
+        "id": 66996,
+        "info": "info for Vegetarian",
+        "xor": false,
+        "sort": 0,
+        "title": "Vegetarian",
+        "keywords": "[]",
+        "slug": "vegetarian",
+        "quadratic": false,
+        "apply_participant_weights": true,
+        "budget_percent": null,
+        "flat_fee": null,
+        "results_title": "Result Vegetarian",
+        "scoring_mode": "none",
+        "triangle_base": 1,
+        "vote_on_percent": false,
+        "voting_style": "one",
+        "weighting": 100,
+        "default_high_option_id": null,
+        "default_low_option_id": null,
+        "primary_detail_id": null
+      },
+      {
+        "id": 66997,
+        "info": "info for xorCat",
+        "xor": true,
+        "sort": 0,
+        "title": "xorCat",
+        "keywords": "[\"xor\"]",
+        "slug": "xorcat",
+        "quadratic": false,
+        "apply_participant_weights": false,
+        "budget_percent": 0.05,
+        "flat_fee": 10.5,
+        "results_title": "Result xorCat",
+        "scoring_mode": "rectangle",
+        "triangle_base": 3,
+        "vote_on_percent": true,
+        "voting_style": "one",
+        "weighting": 30,
+        "default_high_option_id": 50928,
+        "default_low_option_id": 50928,
+        "primary_detail_id": 45430
+      },
+      {
+        "id": 66998,
+        "info": "info for xorCat2",
+        "xor": true,
+        "sort": 0,
+        "title": "xorCat2",
+        "keywords": "[\"xor\"]",
+        "slug": "xorcat2",
+        "quadratic": false,
+        "apply_participant_weights": false,
+        "budget_percent": 0.05,
+        "flat_fee": 10.5,
+        "results_title": "Result xorCat2",
+        "scoring_mode": "none",
+        "triangle_base": 3,
+        "vote_on_percent": true,
+        "voting_style": "one",
+        "weighting": 30,
+        "default_high_option_id": null,
+        "default_low_option_id": null,
+        "primary_detail_id": null
+      }
+    ],
+    "option_details": [
+      {
+        "id": 45431,
+        "public": false,
+        "sort": 2,
+        "format": "boolean",
+        "title": "Cheese",
+        "slug": "cheese",
+        "display_hint": null,
+        "input_hint": null
+      },
+      {
+        "id": 45430,
+        "public": true,
+        "sort": 1,
+        "format": "float",
+        "title": "Cost",
+        "slug": "cost",
+        "display_hint": "$",
+        "input_hint": "$"
+      },
+      {
+        "id": 45434,
+        "public": true,
+        "sort": 5,
+        "format": "string",
+        "title": "Crust",
+        "slug": "crust",
+        "display_hint": null,
+        "input_hint": "string"
+      },
+      {
+        "id": 45433,
+        "public": true,
+        "sort": 4,
+        "format": "integer",
+        "title": "Inches",
+        "slug": "inches",
+        "display_hint": "integer",
+        "input_hint": "int"
+      },
+      {
+        "id": 45432,
+        "public": false,
+        "sort": 3,
+        "format": "boolean",
+        "title": "Vegetarian",
+        "slug": "vegetarian",
+        "display_hint": null,
+        "input_hint": null
+      }
+    ],
+    "option_detail_values": [
+      {
+        "value": "1800000",
+        "option_detail_id": 45430,
+        "option_id": 50923
+      },
+      {
+        "value": "false",
+        "option_detail_id": 45432,
+        "option_id": 50923
+      },
+      {
+        "value": "false",
+        "option_detail_id": 45431,
+        "option_id": 50923
+      },
+      {
+        "value": "1400000",
+        "option_detail_id": 45433,
+        "option_id": 50923
+      },
+      {
+        "value": "Thick",
+        "option_detail_id": 45434,
+        "option_id": 50923
+      },
+      {
+        "value": "30001",
+        "option_detail_id": 45430,
+        "option_id": 50924
+      },
+      {
+        "value": "true",
+        "option_detail_id": 45432,
+        "option_id": 50924
+      },
+      {
+        "value": "true",
+        "option_detail_id": 45431,
+        "option_id": 50924
+      },
+      {
+        "value": "20",
+        "option_detail_id": 45433,
+        "option_id": 50924
+      },
+      {
+        "value": "Thin",
+        "option_detail_id": 45434,
+        "option_id": 50924
+      },
+      {
+        "value": "12000.25",
+        "option_detail_id": 45430,
+        "option_id": 50925
+      },
+      {
+        "value": "true",
+        "option_detail_id": 45432,
+        "option_id": 50925
+      },
+      {
+        "value": "true",
+        "option_detail_id": 45431,
+        "option_id": 50925
+      },
+      {
+        "value": "14",
+        "option_detail_id": 45433,
+        "option_id": 50925
+      },
+      {
+        "value": "Thin",
+        "option_detail_id": 45434,
+        "option_id": 50925
+      },
+      {
+        "value": "22.95",
+        "option_detail_id": 45430,
+        "option_id": 50926
+      },
+      {
+        "value": "false",
+        "option_detail_id": 45432,
+        "option_id": 50926
+      },
+      {
+        "value": "false",
+        "option_detail_id": 45431,
+        "option_id": 50926
+      },
+      {
+        "value": "14",
+        "option_detail_id": 45433,
+        "option_id": 50926
+      },
+      {
+        "value": "Thick",
+        "option_detail_id": 45434,
+        "option_id": 50926
+      },
+      {
+        "value": "18.75",
+        "option_detail_id": 45430,
+        "option_id": 50927
+      },
+      {
+        "value": "true",
+        "option_detail_id": 45432,
+        "option_id": 50927
+      },
+      {
+        "value": "false",
+        "option_detail_id": 45431,
+        "option_id": 50927
+      },
+      {
+        "value": "14",
+        "option_detail_id": 45433,
+        "option_id": 50927
+      },
+      {
+        "value": "Thick",
+        "option_detail_id": 45434,
+        "option_id": 50927
+      }
+    ],
+    "scenario_configs": [
+      {
+        "enabled": true,
+        "id": 16322,
+        "ttl": 0,
+        "title": "group",
+        "slug": "group",
+        "bins": 5,
+        "ci": "0.5000000",
+        "engine_timeout": 10000,
+        "max_scenarios": 10,
+        "normalize_influents": false,
+        "normalize_satisfaction": true,
+        "per_option_satisfaction": false,
+        "quad_cutoff": null,
+        "quad_max_allocation": null,
+        "quad_round_to": null,
+        "quad_seed_percent": null,
+        "quad_total_available": null,
+        "quad_user_seeds": null,
+        "quad_vote_percent": null,
+        "quadratic": false,
+        "skip_solver": false,
+        "support_only": false,
+        "tipping_point": "0.3333000",
+        "solve_interval": 3600000
+      }
+    ],
+    "exported_at": "2024-06-20T05:52:46.724761Z"
+  }
+}

@@ -1,0 +1,641 @@
+{
+  "options": [
+    {
+      "name": "large_cheese",
+      "determinative": false,
+      "details": [
+        {
+          "value": 1,
+          "name": "Cvegetarian"
+        },
+        {
+          "value": 30001,
+          "name": "Dcost"
+        },
+        {
+          "value": 20,
+          "name": "Dinches"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcheese_no"
+        },
+        {
+          "value": 1,
+          "name": "Gcheese_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gm_at_1"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options"
+        },
+        {
+          "value": 1,
+          "name": "Gvegetarian_1"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_no"
+        },
+        {
+          "value": 1,
+          "name": "Gvegetarian_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat2"
+        }
+      ]
+    },
+    {
+      "name": "mèat_lovers",
+      "determinative": false,
+      "details": [
+        {
+          "value": 1,
+          "name": "Cmèat"
+        },
+        {
+          "value": 22.95,
+          "name": "Dcost"
+        },
+        {
+          "value": 14,
+          "name": "Dinches"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gcheese_no"
+        },
+        {
+          "value": 0,
+          "name": "Gcheese_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gm_at_1"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_1"
+        },
+        {
+          "value": 1,
+          "name": "Gvegetarian_no"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat2"
+        }
+      ]
+    },
+    {
+      "name": "option576460752303415706",
+      "determinative": false,
+      "details": [
+        {
+          "value": 1,
+          "name": "Coption-category576460752303415802"
+        },
+        {
+          "value": 0,
+          "name": "Dcost"
+        },
+        {
+          "value": 0,
+          "name": "Dinches"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcheese_no"
+        },
+        {
+          "value": 0,
+          "name": "Gcheese_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gm_at_1"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_1"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_no"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat2"
+        }
+      ]
+    },
+    {
+      "name": "option576460752303415962",
+      "determinative": false,
+      "details": [
+        {
+          "value": 1,
+          "name": "Coption-category576460752303416058"
+        },
+        {
+          "value": 0,
+          "name": "Dcost"
+        },
+        {
+          "value": 0,
+          "name": "Dinches"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcheese_no"
+        },
+        {
+          "value": 0,
+          "name": "Gcheese_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gm_at_1"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_1"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_no"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat2"
+        }
+      ]
+    },
+    {
+      "name": "pepperoni_mushroom",
+      "determinative": false,
+      "details": [
+        {
+          "value": 1,
+          "name": "Cmèat"
+        },
+        {
+          "value": 1800000,
+          "name": "Dcost"
+        },
+        {
+          "value": 1400000,
+          "name": "Dinches"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gcheese_no"
+        },
+        {
+          "value": 0,
+          "name": "Gcheese_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gm_at_1"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_1"
+        },
+        {
+          "value": 1,
+          "name": "Gvegetarian_no"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat2"
+        }
+      ]
+    },
+    {
+      "name": "regular_cheese",
+      "determinative": false,
+      "details": [
+        {
+          "value": 1,
+          "name": "Cvegetarian"
+        },
+        {
+          "value": 12000.25,
+          "name": "Dcost"
+        },
+        {
+          "value": 14,
+          "name": "Dinches"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcheese_no"
+        },
+        {
+          "value": 1,
+          "name": "Gcheese_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gm_at_1"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options"
+        },
+        {
+          "value": 1,
+          "name": "Gvegetarian_1"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_no"
+        },
+        {
+          "value": 1,
+          "name": "Gvegetarian_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat2"
+        }
+      ]
+    },
+    {
+      "name": "veggie_lovers",
+      "determinative": false,
+      "details": [
+        {
+          "value": 1,
+          "name": "Cvegetarian"
+        },
+        {
+          "value": 18.75,
+          "name": "Dcost"
+        },
+        {
+          "value": 14,
+          "name": "Dinches"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gcheese_no"
+        },
+        {
+          "value": 0,
+          "name": "Gcheese_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gm_at_1"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options"
+        },
+        {
+          "value": 1,
+          "name": "Gvegetarian_1"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_no"
+        },
+        {
+          "value": 1,
+          "name": "Gvegetarian_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat2"
+        }
+      ]
+    },
+    {
+      "name": "xor-1",
+      "determinative": false,
+      "details": [
+        {
+          "value": 1,
+          "name": "Cxorcat"
+        },
+        {
+          "value": 0,
+          "name": "Dcost"
+        },
+        {
+          "value": 0,
+          "name": "Dinches"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcheese_no"
+        },
+        {
+          "value": 0,
+          "name": "Gcheese_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gm_at_1"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_1"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_no"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gxorcat"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat2"
+        }
+      ]
+    },
+    {
+      "name": "xor-2",
+      "determinative": false,
+      "details": [
+        {
+          "value": 1,
+          "name": "Cxorcat"
+        },
+        {
+          "value": 0,
+          "name": "Dcost"
+        },
+        {
+          "value": 0,
+          "name": "Dinches"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcheese_no"
+        },
+        {
+          "value": 0,
+          "name": "Gcheese_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gm_at_1"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_1"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_no"
+        },
+        {
+          "value": 0,
+          "name": "Gvegetarian_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gxorcat"
+        },
+        {
+          "value": 0,
+          "name": "Gxorcat2"
+        }
+      ]
+    }
+  ],
+  "fragments": [
+    {
+      "name": "avg_cost",
+      "code": "mean[i in x]{$Dcost[i]}"
+    },
+    {
+      "name": "avg_inches",
+      "code": "mean[i in x]{$Dinches[i]}"
+    },
+    {
+      "name": "count_all_options",
+      "code": "$Gall_options"
+    },
+    {
+      "name": "count_cheese_no",
+      "code": "$Gcheese_no"
+    },
+    {
+      "name": "count_cheese_yes",
+      "code": "$Gcheese_yes"
+    },
+    {
+      "name": "count_m_at",
+      "code": "$Gm_at_1"
+    },
+    {
+      "name": "count_uncategorized_options",
+      "code": "$Guncategorized_options"
+    },
+    {
+      "name": "count_vegetarian_1",
+      "code": "$Gvegetarian_1"
+    },
+    {
+      "name": "count_vegetarian_no",
+      "code": "$Gvegetarian_no"
+    },
+    {
+      "name": "count_vegetarian_yes",
+      "code": "$Gvegetarian_yes"
+    },
+    {
+      "name": "count_xorcat",
+      "code": "$Gxorcat"
+    },
+    {
+      "name": "count_xorcat2",
+      "code": "$Gxorcat2"
+    },
+    {
+      "name": "total_cost",
+      "code": "$Dcost"
+    },
+    {
+      "name": "total_inches",
+      "code": "$Dinches"
+    }
+  ],
+  "displays": [
+    {
+      "name": "feeds",
+      "code": "@total_inches * @total_inches * ( 3.14 / 4 ) / 14 - ( 0.2 * @count_cheese_yes )"
+    },
+    {
+      "name": "pizza_count",
+      "code": "@count_all_options"
+    },
+    {
+      "name": "total_cost",
+      "code": "@total_cost * 1.20"
+    }
+  ],
+  "criteria": [
+    "criteria576460752303415898",
+    "criteria576460752303416154",
+    "taste",
+    "value"
+  ],
+  "constraints": [
+    {
+      "relaxable": false,
+      "name": "budget",
+      "code": "[@total_cost * 1.20] <= 91000"
+    },
+    {
+      "relaxable": false,
+      "name": "mèat_fed",
+      "code": "[filter[$Gvegetarian_no]{@total_inches * @total_inches * ( 3.14 / 4 ) / 14 - ( 0.2 * @count_cheese_yes )}] >= 2"
+    },
+    {
+      "relaxable": false,
+      "name": "mèat_min",
+      "code": "[@count_vegetarian_no] >= 1"
+    },
+    {
+      "relaxable": false,
+      "name": "one_cheese",
+      "code": "[@count_cheese_yes] >= 1"
+    },
+    {
+      "relaxable": false,
+      "name": "veg_fed",
+      "code": "[filter[$Gvegetarian_yes]{@total_inches * @total_inches * ( 3.14 / 4 ) / 14 - ( 0.2 * @count_cheese_yes )}] >= 2"
+    },
+    {
+      "relaxable": false,
+      "name": "veg_min",
+      "code": "[@count_vegetarian_yes] >= 1"
+    },
+    {
+      "relaxable": true,
+      "name": "__auto_xor11",
+      "code": "[@count_xorcat] = 1"
+    }
+  ]
+}

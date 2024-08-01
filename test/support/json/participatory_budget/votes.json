@@ -1,0 +1,1892 @@
+{
+  "issues": {
+    "33e9170c291f6c25ed6c41f568c2da3b": {
+      "title": "Police and Fire Services",
+      "name": "police_and_fire_services"
+    },
+    "9ffd0fa0d43f0ea53c03d1ea87438eb9": {
+      "title": "City Improvements",
+      "name": "city_improvements"
+    },
+    "a5accc0d38208374bd4ff7fc42426511": {
+      "title": "Environment",
+      "name": "environment"
+    },
+    "d8d05475c498599d9d51cfee1dbffc53": {
+      "title": "Health and Safety",
+      "name": "health_and_safety"
+    },
+    "f22efa3d13a5269a5e9db0ce2b521182": {
+      "title": "Education",
+      "name": "education"
+    },
+    "4e614a24db9cafe34f22054989d2a594": {
+      "title": "Recreation",
+      "name": "recreation"
+    }
+  },
+  "options": {
+    "b2d41ffc1704a8e1c270b466dfb76dc4": {
+      "title": "Neighborhood Law Program",
+      "name": "neighborhood_law_program"
+    },
+    "2b2caef4ea7441c2d5526a5a951e161d": {
+      "title": "Fire Rescue Vehicle",
+      "name": "fire_rescue_vehicle"
+    },
+    "a13b0aab08645e96148f9e6764f471fe": {
+      "title": "New Police Officers",
+      "name": "new_police_officers"
+    },
+    "5e79baf42375d43593fea4f1e3f4560a": {
+      "title": "Beautification/Arts Block Grant",
+      "name": "beautification_slash_arts_block_grant"
+    },
+    "a17def7257273c396557397aa8bcbc8b": {
+      "title": "Improvement of Southern Waterfront",
+      "name": "improvement_of_southern_waterfront"
+    },
+    "d051809cab0e3e9cb5f60d833a9509f0": {
+      "title": "Improve Historic Area",
+      "name": "improve_historic_area"
+    },
+    "2802a93da504de1bbc1caad63ba53fe5": {
+      "title": "Community Honey Bee Gardens",
+      "name": "community_honey_bee_gardens"
+    },
+    "e84f701aaa1c7f475fbb64579b31f480": {
+      "title": "The Friends of River Park",
+      "name": "the_friends_of_river_park"
+    },
+    "4ab31c287d0f2cca8b5bc80e67c5c40e": {
+      "title": "Solar Panels on City Buildings",
+      "name": "solar_panels_on_city_buildings"
+    },
+    "cf352cd6b8322b67f946aaf699156c02": {
+      "title": "Homeless Shelter",
+      "name": "homeless_shelter"
+    },
+    "3f949478b8300a11f290751bc0b1b74c": {
+      "title": "Mindfulness Training in Schools",
+      "name": "mindfulness_training_in_schools"
+    },
+    "ab220c8f553aa290494004d25fea9294": {
+      "title": "Community Pet Clinic",
+      "name": "community_pet_clinic"
+    },
+    "879fd0337ee404f8f38b383aa14a3b9c": {
+      "title": "Better Street Lighting",
+      "name": "better_street_lighting"
+    },
+    "6d74792f40eb7079107fbb170715668b": {
+      "title": "Unemployment Training Centre",
+      "name": "unemployment_training_centre"
+    },
+    "0341fb2ebdbd04595a2cff0d2cb807c0": {
+      "title": "Business/Non-Profit Resource Centre",
+      "name": "business_slash_non_profit_resource_centre"
+    },
+    "0c0dcf6202d0ee1122e6f1fbe812d733": {
+      "title": "Upgrade Parks",
+      "name": "upgrade_parks"
+    },
+    "5c3b81d6f0abcdd4cd81058607aea20b": {
+      "title": "Teen Recreation Centre",
+      "name": "teen_recreation_centre"
+    }
+  },
+  "votes": [
+    {
+      "influent": {
+        "id": "536816d32e6db8461700000b",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 201
+              },
+              {
+                "id": "5e79baf42375d43593fea4f1e3f4560a",
+                "value": 34
+              },
+              {
+                "id": "d051809cab0e3e9cb5f60d833a9509f0",
+                "value": 1
+              },
+              {
+                "id": "2802a93da504de1bbc1caad63ba53fe5",
+                "value": 34
+              }
+            ],
+            "value": 31.0
+          },
+          {
+            "id": "33e9170c291f6c25ed6c41f568c2da3b",
+            "options": [
+              {
+                "id": "2b2caef4ea7441c2d5526a5a951e161d",
+                "value": 34
+              },
+              {
+                "id": "b2d41ffc1704a8e1c270b466dfb76dc4",
+                "value": 166
+              },
+              {
+                "id": "a13b0aab08645e96148f9e6764f471fe",
+                "value": 201
+              }
+            ],
+            "value": 101.0
+          },
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "e84f701aaa1c7f475fbb64579b31f480",
+                "value": 201
+              },
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 34
+              }
+            ],
+            "value": 90.0
+          },
+          {
+            "id": "d8d05475c498599d9d51cfee1dbffc53",
+            "options": [
+              {
+                "id": "3f949478b8300a11f290751bc0b1b74c",
+                "value": 166
+              },
+              {
+                "id": "ab220c8f553aa290494004d25fea9294",
+                "value": 166
+              },
+              {
+                "id": "cf352cd6b8322b67f946aaf699156c02",
+                "value": 201
+              },
+              {
+                "id": "879fd0337ee404f8f38b383aa14a3b9c",
+                "value": 34
+              }
+            ],
+            "value": 68.0
+          },
+          {
+            "id": "f22efa3d13a5269a5e9db0ce2b521182",
+            "options": [
+              {
+                "id": "6d74792f40eb7079107fbb170715668b",
+                "value": 201
+              },
+              {
+                "id": "0341fb2ebdbd04595a2cff0d2cb807c0",
+                "value": 34
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "4e614a24db9cafe34f22054989d2a594",
+            "options": [
+              {
+                "id": "5c3b81d6f0abcdd4cd81058607aea20b",
+                "value": 34
+              },
+              {
+                "id": "0c0dcf6202d0ee1122e6f1fbe812d733",
+                "value": 166
+              }
+            ],
+            "value": 63.0
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "536816d32e6db8461700000a"
+    },
+    {
+      "influent": {
+        "id": "536829822e6db8aac7000042",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "5e79baf42375d43593fea4f1e3f4560a",
+                "value": 1
+              },
+              {
+                "id": "d051809cab0e3e9cb5f60d833a9509f0",
+                "value": 1
+              },
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 166
+              },
+              {
+                "id": "2802a93da504de1bbc1caad63ba53fe5",
+                "value": 201
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "33e9170c291f6c25ed6c41f568c2da3b",
+            "options": [
+              {
+                "id": "b2d41ffc1704a8e1c270b466dfb76dc4",
+                "value": 166
+              },
+              {
+                "id": "a13b0aab08645e96148f9e6764f471fe",
+                "value": 34
+              },
+              {
+                "id": "2b2caef4ea7441c2d5526a5a951e161d",
+                "value": 166
+              }
+            ],
+            "value": 62.0
+          },
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 201
+              },
+              {
+                "id": "e84f701aaa1c7f475fbb64579b31f480",
+                "value": 100
+              }
+            ],
+            "value": 79.0
+          },
+          {
+            "id": "d8d05475c498599d9d51cfee1dbffc53",
+            "options": [
+              {
+                "id": "ab220c8f553aa290494004d25fea9294",
+                "value": 34
+              },
+              {
+                "id": "3f949478b8300a11f290751bc0b1b74c",
+                "value": 166
+              },
+              {
+                "id": "879fd0337ee404f8f38b383aa14a3b9c",
+                "value": 34
+              },
+              {
+                "id": "cf352cd6b8322b67f946aaf699156c02",
+                "value": 166
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "f22efa3d13a5269a5e9db0ce2b521182",
+            "options": [
+              {
+                "id": "0341fb2ebdbd04595a2cff0d2cb807c0",
+                "value": 34
+              },
+              {
+                "id": "6d74792f40eb7079107fbb170715668b",
+                "value": 166
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "4e614a24db9cafe34f22054989d2a594",
+            "options": [
+              {
+                "id": "0c0dcf6202d0ee1122e6f1fbe812d733",
+                "value": 1
+              },
+              {
+                "id": "5c3b81d6f0abcdd4cd81058607aea20b",
+                "value": 201
+              }
+            ],
+            "value": 100
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "536829822e6db8aac7000041"
+    },
+    {
+      "influent": {
+        "id": "536829842e6db8e89d000031",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "d051809cab0e3e9cb5f60d833a9509f0",
+                "value": 201
+              },
+              {
+                "id": "5e79baf42375d43593fea4f1e3f4560a",
+                "value": 133
+              },
+              {
+                "id": "2802a93da504de1bbc1caad63ba53fe5",
+                "value": 34
+              },
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 133
+              }
+            ],
+            "value": 75.0
+          },
+          {
+            "id": "33e9170c291f6c25ed6c41f568c2da3b",
+            "options": [
+              {
+                "id": "2b2caef4ea7441c2d5526a5a951e161d",
+                "value": 201
+              },
+              {
+                "id": "b2d41ffc1704a8e1c270b466dfb76dc4",
+                "value": 166
+              },
+              {
+                "id": "a13b0aab08645e96148f9e6764f471fe",
+                "value": 100
+              }
+            ],
+            "value": 31.0
+          },
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 1
+              },
+              {
+                "id": "e84f701aaa1c7f475fbb64579b31f480",
+                "value": 166
+              }
+            ],
+            "value": 22.0
+          },
+          {
+            "id": "d8d05475c498599d9d51cfee1dbffc53",
+            "options": [
+              {
+                "id": "3f949478b8300a11f290751bc0b1b74c",
+                "value": 201
+              },
+              {
+                "id": "cf352cd6b8322b67f946aaf699156c02",
+                "value": 166
+              },
+              {
+                "id": "ab220c8f553aa290494004d25fea9294",
+                "value": 166
+              },
+              {
+                "id": "879fd0337ee404f8f38b383aa14a3b9c",
+                "value": 133
+              }
+            ],
+            "value": 74.0
+          },
+          {
+            "id": "f22efa3d13a5269a5e9db0ce2b521182",
+            "options": [
+              {
+                "id": "0341fb2ebdbd04595a2cff0d2cb807c0",
+                "value": 166
+              },
+              {
+                "id": "6d74792f40eb7079107fbb170715668b",
+                "value": 133
+              }
+            ],
+            "value": 81.0
+          },
+          {
+            "id": "4e614a24db9cafe34f22054989d2a594",
+            "options": [
+              {
+                "id": "5c3b81d6f0abcdd4cd81058607aea20b",
+                "value": 201
+              },
+              {
+                "id": "0c0dcf6202d0ee1122e6f1fbe812d733",
+                "value": 166
+              }
+            ],
+            "value": 91.0
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "536829842e6db8e89d000030"
+    },
+    {
+      "influent": {
+        "id": "5371852d2e6db8b510000009",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5371852d2e6db8b510000008"
+    },
+    {
+      "influent": {
+        "id": "5396462dd4027a9668000013",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "d051809cab0e3e9cb5f60d833a9509f0",
+                "value": 201
+              },
+              {
+                "id": "5e79baf42375d43593fea4f1e3f4560a",
+                "value": 201
+              },
+              {
+                "id": "2802a93da504de1bbc1caad63ba53fe5",
+                "value": 166
+              },
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 201
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "33e9170c291f6c25ed6c41f568c2da3b",
+            "options": [
+              {
+                "id": "b2d41ffc1704a8e1c270b466dfb76dc4",
+                "value": 34
+              },
+              {
+                "id": "a13b0aab08645e96148f9e6764f471fe",
+                "value": 201
+              },
+              {
+                "id": "2b2caef4ea7441c2d5526a5a951e161d",
+                "value": 34
+              }
+            ],
+            "value": 101.0
+          },
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 34
+              },
+              {
+                "id": "e84f701aaa1c7f475fbb64579b31f480",
+                "value": 166
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "d8d05475c498599d9d51cfee1dbffc53",
+            "options": [
+              {
+                "id": "879fd0337ee404f8f38b383aa14a3b9c",
+                "value": 34
+              },
+              {
+                "id": "ab220c8f553aa290494004d25fea9294",
+                "value": 1
+              },
+              {
+                "id": "3f949478b8300a11f290751bc0b1b74c",
+                "value": 166
+              },
+              {
+                "id": "cf352cd6b8322b67f946aaf699156c02",
+                "value": 166
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "f22efa3d13a5269a5e9db0ce2b521182",
+            "options": [
+              {
+                "id": "0341fb2ebdbd04595a2cff0d2cb807c0",
+                "value": 201
+              },
+              {
+                "id": "6d74792f40eb7079107fbb170715668b",
+                "value": 34
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "4e614a24db9cafe34f22054989d2a594",
+            "options": [
+              {
+                "id": "5c3b81d6f0abcdd4cd81058607aea20b",
+                "value": 1
+              },
+              {
+                "id": "0c0dcf6202d0ee1122e6f1fbe812d733",
+                "value": 34
+              }
+            ],
+            "value": 100
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "5396462dd4027a9668000012"
+    },
+    {
+      "influent": {
+        "id": "5396462dd4027a9668000018",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "2802a93da504de1bbc1caad63ba53fe5",
+                "value": 34
+              },
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 166
+              },
+              {
+                "id": "5e79baf42375d43593fea4f1e3f4560a",
+                "value": 34
+              },
+              {
+                "id": "d051809cab0e3e9cb5f60d833a9509f0",
+                "value": 166
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "33e9170c291f6c25ed6c41f568c2da3b",
+            "options": [
+              {
+                "id": "b2d41ffc1704a8e1c270b466dfb76dc4",
+                "value": 100
+              },
+              {
+                "id": "2b2caef4ea7441c2d5526a5a951e161d",
+                "value": 166
+              },
+              {
+                "id": "a13b0aab08645e96148f9e6764f471fe",
+                "value": 34
+              }
+            ],
+            "value": 89.0
+          },
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 1
+              },
+              {
+                "id": "e84f701aaa1c7f475fbb64579b31f480",
+                "value": 201
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "d8d05475c498599d9d51cfee1dbffc53",
+            "options": [
+              {
+                "id": "3f949478b8300a11f290751bc0b1b74c",
+                "value": 201
+              },
+              {
+                "id": "ab220c8f553aa290494004d25fea9294",
+                "value": 34
+              },
+              {
+                "id": "cf352cd6b8322b67f946aaf699156c02",
+                "value": 34
+              },
+              {
+                "id": "879fd0337ee404f8f38b383aa14a3b9c",
+                "value": 34
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "f22efa3d13a5269a5e9db0ce2b521182",
+            "options": [
+              {
+                "id": "0341fb2ebdbd04595a2cff0d2cb807c0",
+                "value": 34
+              },
+              {
+                "id": "6d74792f40eb7079107fbb170715668b",
+                "value": 166
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "4e614a24db9cafe34f22054989d2a594",
+            "options": [
+              {
+                "id": "5c3b81d6f0abcdd4cd81058607aea20b",
+                "value": 201
+              },
+              {
+                "id": "0c0dcf6202d0ee1122e6f1fbe812d733",
+                "value": 34
+              }
+            ],
+            "value": 100
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "5396462dd4027a9668000017"
+    },
+    {
+      "influent": {
+        "id": "5396462ed4027a966800001d",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "5e79baf42375d43593fea4f1e3f4560a",
+                "value": 166
+              },
+              {
+                "id": "d051809cab0e3e9cb5f60d833a9509f0",
+                "value": 1
+              },
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 34
+              },
+              {
+                "id": "2802a93da504de1bbc1caad63ba53fe5",
+                "value": 34
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "33e9170c291f6c25ed6c41f568c2da3b",
+            "options": [
+              {
+                "id": "2b2caef4ea7441c2d5526a5a951e161d",
+                "value": 34
+              },
+              {
+                "id": "b2d41ffc1704a8e1c270b466dfb76dc4",
+                "value": 166
+              },
+              {
+                "id": "a13b0aab08645e96148f9e6764f471fe",
+                "value": 166
+              }
+            ],
+            "value": 101.0
+          },
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 34
+              },
+              {
+                "id": "e84f701aaa1c7f475fbb64579b31f480",
+                "value": 34
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "d8d05475c498599d9d51cfee1dbffc53",
+            "options": [
+              {
+                "id": "ab220c8f553aa290494004d25fea9294",
+                "value": 34
+              },
+              {
+                "id": "3f949478b8300a11f290751bc0b1b74c",
+                "value": 166
+              },
+              {
+                "id": "879fd0337ee404f8f38b383aa14a3b9c",
+                "value": 201
+              },
+              {
+                "id": "cf352cd6b8322b67f946aaf699156c02",
+                "value": 166
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "f22efa3d13a5269a5e9db0ce2b521182",
+            "options": [
+              {
+                "id": "6d74792f40eb7079107fbb170715668b",
+                "value": 201
+              },
+              {
+                "id": "0341fb2ebdbd04595a2cff0d2cb807c0",
+                "value": 1
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "4e614a24db9cafe34f22054989d2a594",
+            "options": [
+              {
+                "id": "0c0dcf6202d0ee1122e6f1fbe812d733",
+                "value": 166
+              },
+              {
+                "id": "5c3b81d6f0abcdd4cd81058607aea20b",
+                "value": 34
+              }
+            ],
+            "value": 100
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "5396462ed4027a966800001c"
+    },
+    {
+      "influent": {
+        "id": "53964631d4027a9668000040",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "d051809cab0e3e9cb5f60d833a9509f0",
+                "value": 1
+              },
+              {
+                "id": "2802a93da504de1bbc1caad63ba53fe5",
+                "value": 34
+              },
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 201
+              },
+              {
+                "id": "5e79baf42375d43593fea4f1e3f4560a",
+                "value": 201
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "33e9170c291f6c25ed6c41f568c2da3b",
+            "options": [
+              {
+                "id": "2b2caef4ea7441c2d5526a5a951e161d",
+                "value": 1
+              },
+              {
+                "id": "b2d41ffc1704a8e1c270b466dfb76dc4",
+                "value": 166
+              },
+              {
+                "id": "a13b0aab08645e96148f9e6764f471fe",
+                "value": 34
+              }
+            ],
+            "value": 101.0
+          },
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "e84f701aaa1c7f475fbb64579b31f480",
+                "value": 166
+              },
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 34
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "d8d05475c498599d9d51cfee1dbffc53",
+            "options": [
+              {
+                "id": "879fd0337ee404f8f38b383aa14a3b9c",
+                "value": 100
+              },
+              {
+                "id": "ab220c8f553aa290494004d25fea9294",
+                "value": 34
+              },
+              {
+                "id": "cf352cd6b8322b67f946aaf699156c02",
+                "value": 100
+              },
+              {
+                "id": "3f949478b8300a11f290751bc0b1b74c",
+                "value": 166
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "f22efa3d13a5269a5e9db0ce2b521182",
+            "options": [
+              {
+                "id": "6d74792f40eb7079107fbb170715668b",
+                "value": 166
+              },
+              {
+                "id": "0341fb2ebdbd04595a2cff0d2cb807c0",
+                "value": 166
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "4e614a24db9cafe34f22054989d2a594",
+            "options": [
+              {
+                "id": "5c3b81d6f0abcdd4cd81058607aea20b",
+                "value": 201
+              },
+              {
+                "id": "0c0dcf6202d0ee1122e6f1fbe812d733",
+                "value": 1
+              }
+            ],
+            "value": 100
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "53964631d4027a966800003f"
+    },
+    {
+      "influent": {
+        "id": "53989d6cd4027a03d8000029",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "53989d6cd4027a03d8000028"
+    },
+    {
+      "influent": {
+        "id": "546e5304d4027ac891000032",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 201
+              },
+              {
+                "id": "d051809cab0e3e9cb5f60d833a9509f0",
+                "value": 166
+              },
+              {
+                "id": "2802a93da504de1bbc1caad63ba53fe5",
+                "value": 34
+              },
+              {
+                "id": "5e79baf42375d43593fea4f1e3f4560a",
+                "value": 201
+              }
+            ],
+            "value": 35.0
+          },
+          {
+            "id": "33e9170c291f6c25ed6c41f568c2da3b",
+            "options": [
+              {
+                "id": "2b2caef4ea7441c2d5526a5a951e161d",
+                "value": 201
+              },
+              {
+                "id": "a13b0aab08645e96148f9e6764f471fe",
+                "value": 166
+              },
+              {
+                "id": "b2d41ffc1704a8e1c270b466dfb76dc4",
+                "value": 34
+              }
+            ],
+            "value": 38.0
+          },
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 201
+              },
+              {
+                "id": "e84f701aaa1c7f475fbb64579b31f480",
+                "value": 34
+              }
+            ],
+            "value": 82.0
+          },
+          {
+            "id": "d8d05475c498599d9d51cfee1dbffc53",
+            "options": [
+              {
+                "id": "3f949478b8300a11f290751bc0b1b74c",
+                "value": 201
+              },
+              {
+                "id": "cf352cd6b8322b67f946aaf699156c02",
+                "value": 34
+              },
+              {
+                "id": "ab220c8f553aa290494004d25fea9294",
+                "value": 201
+              },
+              {
+                "id": "879fd0337ee404f8f38b383aa14a3b9c",
+                "value": 166
+              }
+            ],
+            "value": 78.0
+          },
+          {
+            "id": "f22efa3d13a5269a5e9db0ce2b521182",
+            "options": [
+              {
+                "id": "0341fb2ebdbd04595a2cff0d2cb807c0",
+                "value": 201
+              },
+              {
+                "id": "6d74792f40eb7079107fbb170715668b",
+                "value": 166
+              }
+            ],
+            "value": 47.0
+          },
+          {
+            "id": "4e614a24db9cafe34f22054989d2a594",
+            "options": [
+              {
+                "id": "5c3b81d6f0abcdd4cd81058607aea20b",
+                "value": 166
+              },
+              {
+                "id": "0c0dcf6202d0ee1122e6f1fbe812d733",
+                "value": 34
+              }
+            ],
+            "value": 71.0
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "546e5304d4027ac891000031"
+    },
+    {
+      "influent": {
+        "id": "546e682cd4027a5cd500001e",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "546e682cd4027a5cd500001d"
+    },
+    {
+      "influent": {
+        "id": "54bdd75f70726f5406330000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "54bdd75f70726f5406320000"
+    },
+    {
+      "influent": {
+        "id": "54bdd78370726f53da720000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "54bdd78370726f53da710000"
+    },
+    {
+      "influent": {
+        "id": "54be1fbe70726f5398180000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "54be1fbe70726f5398170000"
+    },
+    {
+      "influent": {
+        "id": "54c2ce1b70726f53985d0000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "54c2ce1b70726f53985c0000"
+    },
+    {
+      "influent": {
+        "id": "54f8f18970726f68b5050000",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 133
+              },
+              {
+                "id": "2802a93da504de1bbc1caad63ba53fe5",
+                "value": 166
+              },
+              {
+                "id": "d051809cab0e3e9cb5f60d833a9509f0",
+                "value": 166
+              },
+              {
+                "id": "5e79baf42375d43593fea4f1e3f4560a",
+                "value": 34
+              }
+            ],
+            "value": 25.0
+          },
+          {
+            "id": "33e9170c291f6c25ed6c41f568c2da3b",
+            "options": [
+              {
+                "id": "2b2caef4ea7441c2d5526a5a951e161d",
+                "value": 201
+              },
+              {
+                "id": "a13b0aab08645e96148f9e6764f471fe",
+                "value": 100
+              },
+              {
+                "id": "b2d41ffc1704a8e1c270b466dfb76dc4",
+                "value": 1
+              }
+            ],
+            "value": 89.0
+          },
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 166
+              },
+              {
+                "id": "e84f701aaa1c7f475fbb64579b31f480",
+                "value": 201
+              }
+            ],
+            "value": 56.0
+          },
+          {
+            "id": "d8d05475c498599d9d51cfee1dbffc53",
+            "options": [
+              {
+                "id": "3f949478b8300a11f290751bc0b1b74c",
+                "value": 201
+              },
+              {
+                "id": "cf352cd6b8322b67f946aaf699156c02",
+                "value": 34
+              },
+              {
+                "id": "879fd0337ee404f8f38b383aa14a3b9c",
+                "value": 201
+              },
+              {
+                "id": "ab220c8f553aa290494004d25fea9294",
+                "value": 201
+              }
+            ],
+            "value": 74.0
+          },
+          {
+            "id": "f22efa3d13a5269a5e9db0ce2b521182",
+            "options": [
+              {
+                "id": "0341fb2ebdbd04595a2cff0d2cb807c0",
+                "value": 201
+              },
+              {
+                "id": "6d74792f40eb7079107fbb170715668b",
+                "value": 100
+              }
+            ],
+            "value": 27.0
+          },
+          {
+            "id": "4e614a24db9cafe34f22054989d2a594",
+            "options": [
+              {
+                "id": "0c0dcf6202d0ee1122e6f1fbe812d733",
+                "value": 201
+              },
+              {
+                "id": "5c3b81d6f0abcdd4cd81058607aea20b",
+                "value": 166
+              }
+            ],
+            "value": 46.0
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "54f8f18970726f68b5040000"
+    },
+    {
+      "influent": {
+        "id": "56b23d2470726f1513100000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "56b23d2470726f15130f0000"
+    },
+    {
+      "influent": {
+        "id": "56e0711c70726f610f350000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "56e0711c70726f610f340000"
+    },
+    {
+      "influent": {
+        "id": "57a8d2c070726f6b9f500000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "57a8d2c070726f6b9f4f0000"
+    },
+    {
+      "influent": {
+        "id": "57a8d38d70726f6c5a030000",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "d051809cab0e3e9cb5f60d833a9509f0",
+                "value": 166
+              },
+              {
+                "id": "5e79baf42375d43593fea4f1e3f4560a",
+                "value": 100
+              },
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 34
+              },
+              {
+                "id": "2802a93da504de1bbc1caad63ba53fe5",
+                "value": 166
+              }
+            ],
+            "value": 32.0
+          },
+          {
+            "id": "33e9170c291f6c25ed6c41f568c2da3b",
+            "options": [
+              {
+                "id": "b2d41ffc1704a8e1c270b466dfb76dc4",
+                "value": 166
+              },
+              {
+                "id": "2b2caef4ea7441c2d5526a5a951e161d",
+                "value": 1
+              }
+            ],
+            "value": 35.0
+          },
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "e84f701aaa1c7f475fbb64579b31f480",
+                "value": 166
+              },
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 34
+              }
+            ],
+            "value": 71.0
+          },
+          {
+            "id": "d8d05475c498599d9d51cfee1dbffc53",
+            "options": [
+              {
+                "id": "cf352cd6b8322b67f946aaf699156c02",
+                "value": 166
+              },
+              {
+                "id": "ab220c8f553aa290494004d25fea9294",
+                "value": 166
+              }
+            ],
+            "value": 74.0
+          },
+          {
+            "id": "f22efa3d13a5269a5e9db0ce2b521182",
+            "options": [
+              {
+                "id": "6d74792f40eb7079107fbb170715668b",
+                "value": 1
+              },
+              {
+                "id": "0341fb2ebdbd04595a2cff0d2cb807c0",
+                "value": 166
+              }
+            ],
+            "value": 24.0
+          },
+          {
+            "id": "4e614a24db9cafe34f22054989d2a594",
+            "options": [
+              {
+                "id": "5c3b81d6f0abcdd4cd81058607aea20b",
+                "value": 166
+              },
+              {
+                "id": "0c0dcf6202d0ee1122e6f1fbe812d733",
+                "value": 34
+              }
+            ],
+            "value": 63.0
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "57a8d38d70726f6c5a020000"
+    },
+    {
+      "influent": {
+        "id": "583c7f5770726f3de1cd0100",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "583c7f5770726f3de1cc0100"
+    },
+    {
+      "influent": {
+        "id": "5841e84070726f2c45100100",
+        "issues": [
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "e84f701aaa1c7f475fbb64579b31f480",
+                "value": 166
+              },
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 100
+              }
+            ],
+            "value": 100
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "5841e84070726f2c450f0100"
+    },
+    {
+      "influent": {
+        "id": "5a9f20f070726f44572f2c00",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5a9f20f070726f44572d2c00"
+    },
+    {
+      "influent": {
+        "id": "5aa182a770726f4457c43800",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5aa182a770726f4457c23800"
+    },
+    {
+      "influent": {
+        "id": "5aa1ac9470726f4457153a00",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 133
+              }
+            ],
+            "value": 100
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "5aa1ac9470726f4457133a00"
+    },
+    {
+      "influent": {
+        "id": "5aa8240d70726f4457d35800",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5aa8240d70726f4457d15800"
+    },
+    {
+      "influent": {
+        "id": "5aa8251270726f4457db5800",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5aa8251270726f4457d95800"
+    },
+    {
+      "influent": {
+        "id": "5aa82a6d70726f4457ea5800",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5aa82a6d70726f4457e85800"
+    },
+    {
+      "influent": {
+        "id": "5aaafb7370726f44573d6200",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5aaafb7370726f44573b6200"
+    },
+    {
+      "influent": {
+        "id": "5aaafb7470726f4457446200",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5aaafb7470726f4457426200"
+    },
+    {
+      "influent": {
+        "id": "5aab028d70726f4457536200",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5aab028d70726f4457516200"
+    },
+    {
+      "influent": {
+        "id": "5aadbc1a70726f44572a6900",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5aadbc1a70726f4457286900"
+    },
+    {
+      "influent": {
+        "id": "5aafb65270726f44579f6b00",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5aafb65270726f44579d6b00"
+    },
+    {
+      "influent": {
+        "id": "5ab8082970726f0981480400",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "d051809cab0e3e9cb5f60d833a9509f0",
+                "value": 67
+              },
+              {
+                "id": "5e79baf42375d43593fea4f1e3f4560a",
+                "value": 166
+              },
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 67
+              },
+              {
+                "id": "2802a93da504de1bbc1caad63ba53fe5",
+                "value": 166
+              }
+            ],
+            "value": 80.0
+          },
+          {
+            "id": "33e9170c291f6c25ed6c41f568c2da3b",
+            "options": [
+              {
+                "id": "b2d41ffc1704a8e1c270b466dfb76dc4",
+                "value": 67
+              },
+              {
+                "id": "a13b0aab08645e96148f9e6764f471fe",
+                "value": 100
+              },
+              {
+                "id": "2b2caef4ea7441c2d5526a5a951e161d",
+                "value": 166
+              }
+            ],
+            "value": 28.0
+          },
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "e84f701aaa1c7f475fbb64579b31f480",
+                "value": 133
+              },
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 133
+              }
+            ],
+            "value": 84.0
+          },
+          {
+            "id": "d8d05475c498599d9d51cfee1dbffc53",
+            "options": [
+              {
+                "id": "cf352cd6b8322b67f946aaf699156c02",
+                "value": 133
+              },
+              {
+                "id": "879fd0337ee404f8f38b383aa14a3b9c",
+                "value": 133
+              },
+              {
+                "id": "ab220c8f553aa290494004d25fea9294",
+                "value": 67
+              },
+              {
+                "id": "3f949478b8300a11f290751bc0b1b74c",
+                "value": 1
+              }
+            ],
+            "value": 75.0
+          },
+          {
+            "id": "f22efa3d13a5269a5e9db0ce2b521182",
+            "options": [
+              {
+                "id": "0341fb2ebdbd04595a2cff0d2cb807c0",
+                "value": 100
+              },
+              {
+                "id": "6d74792f40eb7079107fbb170715668b",
+                "value": 166
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "4e614a24db9cafe34f22054989d2a594",
+            "options": [
+              {
+                "id": "0c0dcf6202d0ee1122e6f1fbe812d733",
+                "value": 133
+              },
+              {
+                "id": "5c3b81d6f0abcdd4cd81058607aea20b",
+                "value": 100
+              }
+            ],
+            "value": 99.0
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "5ab8082970726f0981460400"
+    },
+    {
+      "influent": {
+        "id": "5ab9045070726f7b0e7a0000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ab9045070726f7b0e780000"
+    },
+    {
+      "influent": {
+        "id": "5ab94ee870726f7b0ebc0100",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ab94ee870726f7b0eba0100"
+    },
+    {
+      "influent": {
+        "id": "5ab94f5270726f7b0ec30100",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ab94f5270726f7b0ec10100"
+    },
+    {
+      "influent": {
+        "id": "5ab9500470726f7b0ed80100",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ab9500470726f7b0ed60100"
+    },
+    {
+      "influent": {
+        "id": "5abbd58e70726f677a9a0300",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5abbd58e70726f677a980300"
+    },
+    {
+      "influent": {
+        "id": "5abe558d70726f640ae50100",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5abe558d70726f640ae30100"
+    },
+    {
+      "influent": {
+        "id": "5ac5298270726f2912f50c00",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ac5298270726f2912f30c00"
+    },
+    {
+      "influent": {
+        "id": "5ac5373070726f2912630f00",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ac5373070726f2912610f00"
+    },
+    {
+      "influent": {
+        "id": "5ac5fd7370726f2912a21000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ac5fd7370726f2912a01000"
+    },
+    {
+      "influent": {
+        "id": "5ac5fd8b70726f2912aa1000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ac5fd8b70726f2912a81000"
+    },
+    {
+      "influent": {
+        "id": "5ac61e4f70726f2912231100",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 67
+              },
+              {
+                "id": "2802a93da504de1bbc1caad63ba53fe5",
+                "value": 201
+              },
+              {
+                "id": "5e79baf42375d43593fea4f1e3f4560a",
+                "value": 201
+              }
+            ],
+            "value": 98.0
+          },
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 34
+              },
+              {
+                "id": "e84f701aaa1c7f475fbb64579b31f480",
+                "value": 166
+              }
+            ],
+            "value": 11.0
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "5ac61e4e70726f2912211100"
+    },
+    {
+      "influent": {
+        "id": "5ac654f470726f2e15430100",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ac654f470726f2e15410100"
+    },
+    {
+      "influent": {
+        "id": "5ac6700370726f2e15fe0100",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ac6700370726f2e15fc0100"
+    },
+    {
+      "influent": {
+        "id": "5ac9a92570726f21d2f80000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ac9a92570726f21d2f60000"
+    },
+    {
+      "influent": {
+        "id": "5acbb6f770726f270e910100",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5acbb6f770726f270e8f0100"
+    },
+    {
+      "influent": {
+        "id": "5acf8b9270726f3b9f2d0000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5acf8b9270726f3b9f2b0000"
+    },
+    {
+      "influent": {
+        "id": "5acfd4a870726f18ac4a0000",
+        "issues": [
+          {
+            "id": "a5accc0d38208374bd4ff7fc42426511",
+            "options": [
+              {
+                "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+                "value": 201
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "d8d05475c498599d9d51cfee1dbffc53",
+            "options": [
+              {
+                "id": "cf352cd6b8322b67f946aaf699156c02",
+                "value": 201
+              },
+              {
+                "id": "879fd0337ee404f8f38b383aa14a3b9c",
+                "value": 166
+              },
+              {
+                "id": "3f949478b8300a11f290751bc0b1b74c",
+                "value": 133
+              },
+              {
+                "id": "ab220c8f553aa290494004d25fea9294",
+                "value": 100
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "f22efa3d13a5269a5e9db0ce2b521182",
+            "options": [
+              {
+                "id": "6d74792f40eb7079107fbb170715668b",
+                "value": 201
+              },
+              {
+                "id": "0341fb2ebdbd04595a2cff0d2cb807c0",
+                "value": 166
+              }
+            ],
+            "value": 100
+          },
+          {
+            "id": "4e614a24db9cafe34f22054989d2a594",
+            "options": [
+              {
+                "id": "0c0dcf6202d0ee1122e6f1fbe812d733",
+                "value": 133
+              },
+              {
+                "id": "5c3b81d6f0abcdd4cd81058607aea20b",
+                "value": 166
+              }
+            ],
+            "value": 100
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "5acfd4a870726f18ac480000"
+    },
+    {
+      "influent": {
+        "id": "5ad8bc6b70726f6a005a0000",
+        "issues": [
+          {
+            "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+            "options": [
+              {
+                "id": "a17def7257273c396557397aa8bcbc8b",
+                "value": 166
+              }
+            ],
+            "value": 100
+          }
+        ],
+        "weight": 1.0
+      },
+      "user": "5ad8bc6b70726f6a00580000"
+    },
+    {
+      "influent": {
+        "id": "5ad8f7dd70726f661f400000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ad8f7dd70726f661f3e0000"
+    },
+    {
+      "influent": {
+        "id": "5ada0cad70726f468c050000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ada0cad70726f468c030000"
+    },
+    {
+      "influent": {
+        "id": "5ada323c70726f468c380000",
+        "issues": [
+
+        ],
+        "weight": 1.0
+      },
+      "user": "5ada323c70726f468c360000"
+    }
+  ]
+}

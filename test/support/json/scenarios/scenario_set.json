@@ -1,0 +1,2566 @@
+[
+  {
+    "status": "success",
+    "config": {
+      "collective_identity": 0.0,
+      "tipping_point": 0.33333,
+      "minimize": false,
+      "global": true
+    },
+    "objective": -0.0050998263888888859,
+    "options": [
+      "large_cheese",
+      "mèat_lovers",
+      "pepperoni_mushroom",
+      "regular_cheese",
+      "veggie_lovers"
+    ],
+    "constraints": [
+      {
+        "name": "budget",
+        "value": 108.54
+      },
+      {
+        "name": "meat_fed",
+        "value": 43.96
+      },
+      {
+        "name": "meat_min",
+        "value": 2.0
+      },
+      {
+        "name": "one_cheese",
+        "value": 2.0
+      },
+      {
+        "name": "veg_fed",
+        "value": 128.78857142857144
+      },
+      {
+        "name": "veg_min",
+        "value": 3.0
+      }
+    ],
+    "displays": [],
+    "stats": {
+      "global": {
+        "histogram": [
+          0,
+          0,
+          3,
+          0,
+          0
+        ],
+        "approval": 0.3333333333333333,
+        "dissonance": 0.0011848630728545026,
+        "ethelo": 0.00637478298611112,
+        "negative_votes": 1.0,
+        "neutral_votes": 1.0,
+        "positive_votes": 1.0,
+        "support": 0.00637478298611112,
+        "total_votes": 3.0
+      },
+      "options": {
+        "large_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.25,
+          "ethelo": 0.5,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.5,
+          "total_votes": 3.0
+        },
+        "mèat_lovers": {
+          "histogram": [
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "approval": 0.3333333333333333,
+          "dissonance": 0.2843780517578125,
+          "ethelo": 0.10546875000000002,
+          "negative_votes": 1.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 1.0,
+          "support": 0.10546875000000002,
+          "total_votes": 3.0
+        },
+        "pepperoni_mushroom": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.25,
+          "ethelo": -0.5,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.5,
+          "total_votes": 3.0
+        },
+        "regular_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            0,
+            2
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.18344624837239585,
+          "ethelo": 0.4830729166666667,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.4830729166666667,
+          "total_votes": 3.0
+        },
+        "veggie_lovers": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.10599263509114584,
+          "ethelo": -0.3606770833333333,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.3606770833333333,
+          "total_votes": 3.0
+        }
+      },
+      "issues": {
+        "Cmèat": {
+          "histogram": [
+            0,
+            1,
+            2,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.048145294189453128,
+          "ethelo": -0.197265625,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.197265625,
+          "total_votes": 3.0
+        },
+        "Cvegetarian": {
+          "histogram": [
+            0,
+            0,
+            1,
+            2,
+            0
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.03922582555700231,
+          "ethelo": 0.20746527777777777,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.20746527777777777,
+          "total_votes": 3.0
+        }
+      },
+      "criteria": {
+        "large_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          }
+        },
+        "mèat_lovers": {
+          "taste": {
+            "histogram": [
+              1,
+              0,
+              1,
+              0,
+              1
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 1.0,
+            "ethelo": 0.0,
+            "negative_votes": 1.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 1.0,
+            "support": 0.0,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          }
+        },
+        "pepperoni_mushroom": {
+          "taste": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          }
+        },
+        "regular_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              0,
+              2
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.33333333333333339,
+            "ethelo": 0.6666666666666666,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.6666666666666666,
+            "total_votes": 3.0
+          }
+        },
+        "veggie_lovers": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              2,
+              0,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.33333333333333339,
+            "ethelo": -0.6666666666666666,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.6666666666666666,
+            "total_votes": 3.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "status": "success",
+    "config": {
+      "collective_identity": 0.0,
+      "tipping_point": 0.33333,
+      "minimize": false,
+      "global": false
+    },
+    "objective": -0.19021267361111114,
+    "options": [
+      "large_cheese",
+      "mèat_lovers",
+      "regular_cheese"
+    ],
+    "constraints": [
+      {
+        "name": "budget",
+        "value": 64.44
+      },
+      {
+        "name": "meat_fed",
+        "value": 10.99
+      },
+      {
+        "name": "meat_min",
+        "value": 1.0
+      },
+      {
+        "name": "one_cheese",
+        "value": 2.0
+      },
+      {
+        "name": "veg_fed",
+        "value": 64.41857142857143
+      },
+      {
+        "name": "veg_min",
+        "value": 2.0
+      }
+    ],
+    "displays": [],
+    "stats": {
+      "global": {
+        "histogram": [
+          0,
+          0,
+          1,
+          2,
+          0
+        ],
+        "approval": 0.6666666666666666,
+        "dissonance": 0.05961960112607038,
+        "ethelo": 0.23776584201388893,
+        "negative_votes": 0.0,
+        "neutral_votes": 1.0,
+        "positive_votes": 2.0,
+        "support": 0.23776584201388893,
+        "total_votes": 3.0
+      },
+      "options": {
+        "large_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.25,
+          "ethelo": 0.5,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.5,
+          "total_votes": 3.0
+        },
+        "mèat_lovers": {
+          "histogram": [
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "approval": 0.3333333333333333,
+          "dissonance": 0.2843780517578125,
+          "ethelo": 0.10546875000000002,
+          "negative_votes": 1.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 1.0,
+          "support": 0.10546875000000002,
+          "total_votes": 3.0
+        },
+        "pepperoni_mushroom": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.25,
+          "ethelo": -0.5,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.5,
+          "total_votes": 3.0
+        },
+        "regular_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            0,
+            2
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.18344624837239585,
+          "ethelo": 0.4830729166666667,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.4830729166666667,
+          "total_votes": 3.0
+        },
+        "veggie_lovers": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.10599263509114584,
+          "ethelo": -0.3606770833333333,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.3606770833333333,
+          "total_votes": 3.0
+        }
+      },
+      "issues": {
+        "Cmèat": {
+          "histogram": [
+            0,
+            1,
+            2,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.048145294189453128,
+          "ethelo": -0.197265625,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.197265625,
+          "total_votes": 3.0
+        },
+        "Cvegetarian": {
+          "histogram": [
+            0,
+            0,
+            1,
+            2,
+            0
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.03922582555700231,
+          "ethelo": 0.20746527777777777,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.20746527777777777,
+          "total_votes": 3.0
+        }
+      },
+      "criteria": {
+        "large_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          }
+        },
+        "mèat_lovers": {
+          "taste": {
+            "histogram": [
+              1,
+              0,
+              1,
+              0,
+              1
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 1.0,
+            "ethelo": 0.0,
+            "negative_votes": 1.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 1.0,
+            "support": 0.0,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          }
+        },
+        "pepperoni_mushroom": {
+          "taste": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          }
+        },
+        "regular_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              0,
+              2
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.33333333333333339,
+            "ethelo": 0.6666666666666666,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.6666666666666666,
+            "total_votes": 3.0
+          }
+        },
+        "veggie_lovers": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              2,
+              0,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.33333333333333339,
+            "ethelo": -0.6666666666666666,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.6666666666666666,
+            "total_votes": 3.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "status": "success",
+    "config": {
+      "collective_identity": 0.0,
+      "tipping_point": 0.33333,
+      "minimize": false,
+      "global": false
+    },
+    "objective": -0.13009982638888893,
+    "options": [
+      "large_cheese",
+      "mèat_lovers",
+      "regular_cheese",
+      "veggie_lovers"
+    ],
+    "constraints": [
+      {
+        "name": "budget",
+        "value": 86.94
+      },
+      {
+        "name": "meat_fed",
+        "value": 10.99
+      },
+      {
+        "name": "meat_min",
+        "value": 1.0
+      },
+      {
+        "name": "one_cheese",
+        "value": 2.0
+      },
+      {
+        "name": "veg_fed",
+        "value": 128.78857142857144
+      },
+      {
+        "name": "veg_min",
+        "value": 3.0
+      }
+    ],
+    "displays": [],
+    "stats": {
+      "global": {
+        "histogram": [
+          0,
+          0,
+          2,
+          1,
+          0
+        ],
+        "approval": 0.6666666666666666,
+        "dissonance": 0.03240180236321909,
+        "ethelo": 0.16262478298611114,
+        "negative_votes": 0.0,
+        "neutral_votes": 1.0,
+        "positive_votes": 2.0,
+        "support": 0.16262478298611114,
+        "total_votes": 3.0
+      },
+      "options": {
+        "large_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.25,
+          "ethelo": 0.5,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.5,
+          "total_votes": 3.0
+        },
+        "mèat_lovers": {
+          "histogram": [
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "approval": 0.3333333333333333,
+          "dissonance": 0.2843780517578125,
+          "ethelo": 0.10546875000000002,
+          "negative_votes": 1.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 1.0,
+          "support": 0.10546875000000002,
+          "total_votes": 3.0
+        },
+        "pepperoni_mushroom": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.25,
+          "ethelo": -0.5,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.5,
+          "total_votes": 3.0
+        },
+        "regular_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            0,
+            2
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.18344624837239585,
+          "ethelo": 0.4830729166666667,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.4830729166666667,
+          "total_votes": 3.0
+        },
+        "veggie_lovers": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.10599263509114584,
+          "ethelo": -0.3606770833333333,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.3606770833333333,
+          "total_votes": 3.0
+        }
+      },
+      "issues": {
+        "Cmèat": {
+          "histogram": [
+            0,
+            1,
+            2,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.048145294189453128,
+          "ethelo": -0.197265625,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.197265625,
+          "total_votes": 3.0
+        },
+        "Cvegetarian": {
+          "histogram": [
+            0,
+            0,
+            1,
+            2,
+            0
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.03922582555700231,
+          "ethelo": 0.20746527777777777,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.20746527777777777,
+          "total_votes": 3.0
+        }
+      },
+      "criteria": {
+        "large_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          }
+        },
+        "mèat_lovers": {
+          "taste": {
+            "histogram": [
+              1,
+              0,
+              1,
+              0,
+              1
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 1.0,
+            "ethelo": 0.0,
+            "negative_votes": 1.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 1.0,
+            "support": 0.0,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          }
+        },
+        "pepperoni_mushroom": {
+          "taste": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          }
+        },
+        "regular_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              0,
+              2
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.33333333333333339,
+            "ethelo": 0.6666666666666666,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.6666666666666666,
+            "total_votes": 3.0
+          }
+        },
+        "veggie_lovers": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              2,
+              0,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.33333333333333339,
+            "ethelo": -0.6666666666666666,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.6666666666666666,
+            "total_votes": 3.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "status": "success",
+    "config": {
+      "collective_identity": 0.0,
+      "tipping_point": 0.33333,
+      "minimize": false,
+      "global": false
+    },
+    "objective": -0.10970052083333333,
+    "options": [
+      "large_cheese",
+      "mèat_lovers"
+    ],
+    "constraints": [
+      {
+        "name": "budget",
+        "value": 49.74
+      },
+      {
+        "name": "meat_fed",
+        "value": 10.99
+      },
+      {
+        "name": "meat_min",
+        "value": 1.0
+      },
+      {
+        "name": "one_cheese",
+        "value": 1.0
+      },
+      {
+        "name": "veg_fed",
+        "value": 22.228571428571429
+      },
+      {
+        "name": "veg_min",
+        "value": 1.0
+      }
+    ],
+    "displays": [],
+    "stats": {
+      "global": {
+        "histogram": [
+          0,
+          0,
+          2,
+          1,
+          0
+        ],
+        "approval": 0.6666666666666666,
+        "dissonance": 0.026669270462460004,
+        "ethelo": 0.1371256510416667,
+        "negative_votes": 0.0,
+        "neutral_votes": 1.0,
+        "positive_votes": 2.0,
+        "support": 0.1371256510416667,
+        "total_votes": 3.0
+      },
+      "options": {
+        "large_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.25,
+          "ethelo": 0.5,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.5,
+          "total_votes": 3.0
+        },
+        "mèat_lovers": {
+          "histogram": [
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "approval": 0.3333333333333333,
+          "dissonance": 0.2843780517578125,
+          "ethelo": 0.10546875000000002,
+          "negative_votes": 1.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 1.0,
+          "support": 0.10546875000000002,
+          "total_votes": 3.0
+        },
+        "pepperoni_mushroom": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.25,
+          "ethelo": -0.5,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.5,
+          "total_votes": 3.0
+        },
+        "regular_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            0,
+            2
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.18344624837239585,
+          "ethelo": 0.4830729166666667,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.4830729166666667,
+          "total_votes": 3.0
+        },
+        "veggie_lovers": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.10599263509114584,
+          "ethelo": -0.3606770833333333,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.3606770833333333,
+          "total_votes": 3.0
+        }
+      },
+      "issues": {
+        "Cmèat": {
+          "histogram": [
+            0,
+            1,
+            2,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.048145294189453128,
+          "ethelo": -0.197265625,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.197265625,
+          "total_votes": 3.0
+        },
+        "Cvegetarian": {
+          "histogram": [
+            0,
+            0,
+            1,
+            2,
+            0
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.03922582555700231,
+          "ethelo": 0.20746527777777777,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.20746527777777777,
+          "total_votes": 3.0
+        }
+      },
+      "criteria": {
+        "large_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          }
+        },
+        "mèat_lovers": {
+          "taste": {
+            "histogram": [
+              1,
+              0,
+              1,
+              0,
+              1
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 1.0,
+            "ethelo": 0.0,
+            "negative_votes": 1.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 1.0,
+            "support": 0.0,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          }
+        },
+        "pepperoni_mushroom": {
+          "taste": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          }
+        },
+        "regular_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              0,
+              2
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.33333333333333339,
+            "ethelo": 0.6666666666666666,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.6666666666666666,
+            "total_votes": 3.0
+          }
+        },
+        "veggie_lovers": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              2,
+              0,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.33333333333333339,
+            "ethelo": -0.6666666666666666,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.6666666666666666,
+            "total_votes": 3.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "status": "success",
+    "config": {
+      "collective_identity": 0.0,
+      "tipping_point": 0.33333,
+      "minimize": false,
+      "global": false
+    },
+    "objective": -0.10687934027777779,
+    "options": [
+      "mèat_lovers",
+      "regular_cheese"
+    ],
+    "constraints": [
+      {
+        "name": "budget",
+        "value": 42.24
+      },
+      {
+        "name": "meat_fed",
+        "value": 10.99
+      },
+      {
+        "name": "meat_min",
+        "value": 1.0
+      },
+      {
+        "name": "one_cheese",
+        "value": 1.0
+      },
+      {
+        "name": "veg_fed",
+        "value": 10.790000000000001
+      },
+      {
+        "name": "veg_min",
+        "value": 1.0
+      }
+    ],
+    "displays": [],
+    "stats": {
+      "global": {
+        "histogram": [
+          0,
+          0,
+          2,
+          1,
+          0
+        ],
+        "approval": 0.6666666666666666,
+        "dissonance": 0.046988714624334289,
+        "ethelo": 0.13359917534722225,
+        "negative_votes": 0.0,
+        "neutral_votes": 1.0,
+        "positive_votes": 2.0,
+        "support": 0.13359917534722225,
+        "total_votes": 3.0
+      },
+      "options": {
+        "large_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.25,
+          "ethelo": 0.5,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.5,
+          "total_votes": 3.0
+        },
+        "mèat_lovers": {
+          "histogram": [
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "approval": 0.3333333333333333,
+          "dissonance": 0.2843780517578125,
+          "ethelo": 0.10546875000000002,
+          "negative_votes": 1.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 1.0,
+          "support": 0.10546875000000002,
+          "total_votes": 3.0
+        },
+        "pepperoni_mushroom": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.25,
+          "ethelo": -0.5,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.5,
+          "total_votes": 3.0
+        },
+        "regular_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            0,
+            2
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.18344624837239585,
+          "ethelo": 0.4830729166666667,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.4830729166666667,
+          "total_votes": 3.0
+        },
+        "veggie_lovers": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.10599263509114584,
+          "ethelo": -0.3606770833333333,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.3606770833333333,
+          "total_votes": 3.0
+        }
+      },
+      "issues": {
+        "Cmèat": {
+          "histogram": [
+            0,
+            1,
+            2,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.048145294189453128,
+          "ethelo": -0.197265625,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.197265625,
+          "total_votes": 3.0
+        },
+        "Cvegetarian": {
+          "histogram": [
+            0,
+            0,
+            1,
+            2,
+            0
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.03922582555700231,
+          "ethelo": 0.20746527777777777,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.20746527777777777,
+          "total_votes": 3.0
+        }
+      },
+      "criteria": {
+        "large_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          }
+        },
+        "mèat_lovers": {
+          "taste": {
+            "histogram": [
+              1,
+              0,
+              1,
+              0,
+              1
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 1.0,
+            "ethelo": 0.0,
+            "negative_votes": 1.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 1.0,
+            "support": 0.0,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          }
+        },
+        "pepperoni_mushroom": {
+          "taste": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          }
+        },
+        "regular_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              0,
+              2
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.33333333333333339,
+            "ethelo": 0.6666666666666666,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.6666666666666666,
+            "total_votes": 3.0
+          }
+        },
+        "veggie_lovers": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              2,
+              0,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.33333333333333339,
+            "ethelo": -0.6666666666666666,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.6666666666666666,
+            "total_votes": 3.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "status": "success",
+    "config": {
+      "collective_identity": 0.0,
+      "tipping_point": 0.33333,
+      "minimize": false,
+      "global": false
+    },
+    "objective": -0.0652126736111111,
+    "options": [
+      "large_cheese",
+      "mèat_lovers",
+      "pepperoni_mushroom",
+      "regular_cheese"
+    ],
+    "constraints": [
+      {
+        "name": "budget",
+        "value": 86.04
+      },
+      {
+        "name": "meat_fed",
+        "value": 43.96
+      },
+      {
+        "name": "meat_min",
+        "value": 2.0
+      },
+      {
+        "name": "one_cheese",
+        "value": 2.0
+      },
+      {
+        "name": "veg_fed",
+        "value": 64.41857142857143
+      },
+      {
+        "name": "veg_min",
+        "value": 2.0
+      }
+    ],
+    "displays": [],
+    "stats": {
+      "global": {
+        "histogram": [
+          0,
+          0,
+          3,
+          0,
+          0
+        ],
+        "approval": 0.6666666666666666,
+        "dissonance": 0.007803296601330795,
+        "ethelo": 0.08151584201388891,
+        "negative_votes": 0.0,
+        "neutral_votes": 1.0,
+        "positive_votes": 2.0,
+        "support": 0.08151584201388891,
+        "total_votes": 3.0
+      },
+      "options": {
+        "large_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.25,
+          "ethelo": 0.5,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.5,
+          "total_votes": 3.0
+        },
+        "mèat_lovers": {
+          "histogram": [
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "approval": 0.3333333333333333,
+          "dissonance": 0.2843780517578125,
+          "ethelo": 0.10546875000000002,
+          "negative_votes": 1.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 1.0,
+          "support": 0.10546875000000002,
+          "total_votes": 3.0
+        },
+        "pepperoni_mushroom": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.25,
+          "ethelo": -0.5,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.5,
+          "total_votes": 3.0
+        },
+        "regular_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            0,
+            2
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.18344624837239585,
+          "ethelo": 0.4830729166666667,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.4830729166666667,
+          "total_votes": 3.0
+        },
+        "veggie_lovers": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.10599263509114584,
+          "ethelo": -0.3606770833333333,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.3606770833333333,
+          "total_votes": 3.0
+        }
+      },
+      "issues": {
+        "Cmèat": {
+          "histogram": [
+            0,
+            1,
+            2,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.048145294189453128,
+          "ethelo": -0.197265625,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.197265625,
+          "total_votes": 3.0
+        },
+        "Cvegetarian": {
+          "histogram": [
+            0,
+            0,
+            1,
+            2,
+            0
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.03922582555700231,
+          "ethelo": 0.20746527777777777,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.20746527777777777,
+          "total_votes": 3.0
+        }
+      },
+      "criteria": {
+        "large_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          }
+        },
+        "mèat_lovers": {
+          "taste": {
+            "histogram": [
+              1,
+              0,
+              1,
+              0,
+              1
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 1.0,
+            "ethelo": 0.0,
+            "negative_votes": 1.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 1.0,
+            "support": 0.0,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          }
+        },
+        "pepperoni_mushroom": {
+          "taste": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          }
+        },
+        "regular_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              0,
+              2
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.33333333333333339,
+            "ethelo": 0.6666666666666666,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.6666666666666666,
+            "total_votes": 3.0
+          }
+        },
+        "veggie_lovers": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              2,
+              0,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.33333333333333339,
+            "ethelo": -0.6666666666666666,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.6666666666666666,
+            "total_votes": 3.0
+          }
+        }
+      }
+    }
+  },
+  {
+    "status": "success",
+    "config": {
+      "collective_identity": 0.0,
+      "tipping_point": 0.33333,
+      "minimize": true,
+      "global": false
+    },
+    "objective": -0.10460069444444446,
+    "options": [
+      "pepperoni_mushroom",
+      "regular_cheese",
+      "veggie_lovers"
+    ],
+    "constraints": [
+      {
+        "name": "budget",
+        "value": 58.8
+      },
+      {
+        "name": "meat_fed",
+        "value": 10.99
+      },
+      {
+        "name": "meat_min",
+        "value": 1.0
+      },
+      {
+        "name": "one_cheese",
+        "value": 1.0
+      },
+      {
+        "name": "veg_fed",
+        "value": 43.76
+      },
+      {
+        "name": "veg_min",
+        "value": 2.0
+      }
+    ],
+    "displays": [],
+    "stats": {
+      "global": {
+        "histogram": [
+          0,
+          1,
+          2,
+          0,
+          0
+        ],
+        "approval": 0.0,
+        "dissonance": 0.01892535774796099,
+        "ethelo": -0.13075086805555559,
+        "negative_votes": 2.0,
+        "neutral_votes": 1.0,
+        "positive_votes": 0.0,
+        "support": -0.13075086805555559,
+        "total_votes": 3.0
+      },
+      "options": {
+        "large_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.25,
+          "ethelo": 0.5,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.5,
+          "total_votes": 3.0
+        },
+        "mèat_lovers": {
+          "histogram": [
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "approval": 0.3333333333333333,
+          "dissonance": 0.2843780517578125,
+          "ethelo": 0.10546875000000002,
+          "negative_votes": 1.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 1.0,
+          "support": 0.10546875000000002,
+          "total_votes": 3.0
+        },
+        "pepperoni_mushroom": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.25,
+          "ethelo": -0.5,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.5,
+          "total_votes": 3.0
+        },
+        "regular_cheese": {
+          "histogram": [
+            0,
+            0,
+            1,
+            0,
+            2
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.18344624837239585,
+          "ethelo": 0.4830729166666667,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.4830729166666667,
+          "total_votes": 3.0
+        },
+        "veggie_lovers": {
+          "histogram": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.10599263509114584,
+          "ethelo": -0.3606770833333333,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.3606770833333333,
+          "total_votes": 3.0
+        }
+      },
+      "issues": {
+        "Cmèat": {
+          "histogram": [
+            0,
+            1,
+            2,
+            0,
+            0
+          ],
+          "approval": 0.0,
+          "dissonance": 0.048145294189453128,
+          "ethelo": -0.197265625,
+          "negative_votes": 2.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 0.0,
+          "support": -0.197265625,
+          "total_votes": 3.0
+        },
+        "Cvegetarian": {
+          "histogram": [
+            0,
+            0,
+            1,
+            2,
+            0
+          ],
+          "approval": 0.6666666666666666,
+          "dissonance": 0.03922582555700231,
+          "ethelo": 0.20746527777777777,
+          "negative_votes": 0.0,
+          "neutral_votes": 1.0,
+          "positive_votes": 2.0,
+          "support": 0.20746527777777777,
+          "total_votes": 3.0
+        }
+      },
+      "criteria": {
+        "large_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              1,
+              1
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.25,
+            "ethelo": 0.5,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.5,
+            "total_votes": 3.0
+          }
+        },
+        "mèat_lovers": {
+          "taste": {
+            "histogram": [
+              1,
+              0,
+              1,
+              0,
+              1
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 1.0,
+            "ethelo": 0.0,
+            "negative_votes": 1.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 1.0,
+            "support": 0.0,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          }
+        },
+        "pepperoni_mushroom": {
+          "taste": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              1,
+              1,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.25,
+            "ethelo": -0.5,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.5,
+            "total_votes": 3.0
+          }
+        },
+        "regular_cheese": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              0,
+              0,
+              1,
+              0,
+              2
+            ],
+            "approval": 0.6666666666666666,
+            "dissonance": 0.33333333333333339,
+            "ethelo": 0.6666666666666666,
+            "negative_votes": 0.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 2.0,
+            "support": 0.6666666666666666,
+            "total_votes": 3.0
+          }
+        },
+        "veggie_lovers": {
+          "taste": {
+            "histogram": [
+              0,
+              0,
+              2,
+              1,
+              0
+            ],
+            "approval": 0.3333333333333333,
+            "dissonance": 0.08333333333333334,
+            "ethelo": 0.16666666666666667,
+            "negative_votes": 0.0,
+            "neutral_votes": 2.0,
+            "positive_votes": 1.0,
+            "support": 0.16666666666666667,
+            "total_votes": 3.0
+          },
+          "value": {
+            "histogram": [
+              2,
+              0,
+              1,
+              0,
+              0
+            ],
+            "approval": 0.0,
+            "dissonance": 0.33333333333333339,
+            "ethelo": -0.6666666666666666,
+            "negative_votes": 2.0,
+            "neutral_votes": 1.0,
+            "positive_votes": 0.0,
+            "support": -0.6666666666666666,
+            "total_votes": 3.0
+          }
+        }
+      }
+    }
+  }
+]

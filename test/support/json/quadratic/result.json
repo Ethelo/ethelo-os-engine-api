@@ -1,0 +1,1432 @@
+[
+  {
+    "status": "success",
+    "config": {
+      "collective_identity": 0.5,
+      "tipping_point": 0.3333,
+      "minimize": false,
+      "global": true
+    },
+    "objective": 0.582894240041288,
+    "options": [
+      "fifth_seed0",
+      "fifth_seed1",
+      "fifth_seed16",
+      "fifth_seed25",
+      "fifth_seed4",
+      "fifth_seed9",
+      "first_seed0",
+      "first_seed1",
+      "first_seed16",
+      "first_seed25",
+      "first_seed4",
+      "first_seed9",
+      "fourth_seed0",
+      "fourth_seed1",
+      "fourth_seed16",
+      "fourth_seed25",
+      "fourth_seed4",
+      "fourth_seed9",
+      "second_seed0",
+      "second_seed1",
+      "second_seed16",
+      "second_seed25",
+      "second_seed4",
+      "second_seed9",
+      "third_seed0",
+      "third_seed1",
+      "third_seed16",
+      "third_seed25",
+      "third_seed4",
+      "third_seed9"
+    ],
+    "constraints": [],
+    "displays": [],
+    "stats": {
+      "global": {
+        "histogram": [
+          0,
+          2,
+          0,
+          0,
+          0
+        ],
+        "abstain_votes": 0.0,
+        "approval": 0.0,
+        "dissonance": 0.0038024691358024725,
+        "ethelo": -0.5819511333849435,
+        "fairness": -0.40861780005161016,
+        "negative_votes": 5.0,
+        "neutral_votes": 0.0,
+        "positive_votes": 0.0,
+        "support": -0.1733333333333334,
+        "total_votes": 5.0
+      },
+      "options": {
+        "fifth_seed0": {
+          "histogram": [
+            0,
+            0,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 4.0,
+          "approval": 1.0,
+          "dissonance": 0.0,
+          "ethelo": 0.6666666666666667,
+          "negative_votes": 0.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": 0.3333333333333335,
+          "total_votes": 1.0
+        },
+        "fifth_seed1": {
+          "histogram": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "abstain_votes": 4.0,
+          "approval": 1.0,
+          "dissonance": 0.0,
+          "ethelo": 1.0,
+          "negative_votes": 0.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": 1.0,
+          "total_votes": 1.0
+        },
+        "fifth_seed16": {
+          "histogram": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 4.0,
+          "approval": 0.0,
+          "dissonance": 0.0,
+          "ethelo": -1.0,
+          "negative_votes": 1.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -1.0,
+          "total_votes": 1.0
+        },
+        "fifth_seed25": {
+          "histogram": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 4.0,
+          "approval": 0.0,
+          "dissonance": 0.0,
+          "ethelo": -1.0,
+          "negative_votes": 1.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -1.0,
+          "total_votes": 1.0
+        },
+        "fifth_seed4": {
+          "histogram": [
+            0,
+            0,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 4.0,
+          "approval": 1.0,
+          "dissonance": 0.0,
+          "ethelo": 0.6666666666666667,
+          "negative_votes": 0.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": 0.3333333333333335,
+          "total_votes": 1.0
+        },
+        "fifth_seed9": {
+          "histogram": [
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 4.0,
+          "approval": 0.0,
+          "dissonance": 0.0,
+          "ethelo": -0.6666666666666666,
+          "negative_votes": 1.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -0.33333333333333328,
+          "total_votes": 1.0
+        },
+        "first_seed0": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "first_seed1": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "first_seed16": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "first_seed25": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "first_seed4": {
+          "histogram": [
+            1,
+            2,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.25,
+          "dissonance": 0.3333333333333333,
+          "ethelo": -0.33332500041664578,
+          "fairness": 0.000008332916687503467,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": -0.33333333333333328,
+          "total_votes": 4.0
+        },
+        "first_seed9": {
+          "histogram": [
+            1,
+            2,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.25,
+          "dissonance": 0.3333333333333333,
+          "ethelo": -0.33332500041664578,
+          "fairness": 0.000008332916687503467,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": -0.33333333333333328,
+          "total_votes": 4.0
+        },
+        "fourth_seed0": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "fourth_seed1": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "fourth_seed16": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "fourth_seed25": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "fourth_seed4": {
+          "histogram": [
+            1,
+            2,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.25,
+          "dissonance": 0.3333333333333333,
+          "ethelo": -0.33332500041664578,
+          "fairness": 0.000008332916687503467,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": -0.33333333333333328,
+          "total_votes": 4.0
+        },
+        "fourth_seed9": {
+          "histogram": [
+            1,
+            2,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.25,
+          "dissonance": 0.3333333333333333,
+          "ethelo": -0.33332500041664578,
+          "fairness": 0.000008332916687503467,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": -0.33333333333333328,
+          "total_votes": 4.0
+        },
+        "second_seed0": {
+          "histogram": [
+            2,
+            1,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.4,
+          "dissonance": 0.7555555555555557,
+          "ethelo": -0.13666483342499537,
+          "fairness": 0.0633351665750046,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.19999999999999996,
+          "total_votes": 5.0
+        },
+        "second_seed1": {
+          "histogram": [
+            0,
+            2,
+            0,
+            2,
+            1
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.6,
+          "dissonance": 0.31111111111111108,
+          "ethelo": 0.22662932959962676,
+          "fairness": 0.02662932959962666,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 3.0,
+          "support": 0.2000000000000001,
+          "total_votes": 5.0
+        },
+        "second_seed16": {
+          "histogram": [
+            2,
+            1,
+            0,
+            2,
+            0
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.4,
+          "dissonance": 0.44444444444444455,
+          "ethelo": -0.3055486114583159,
+          "fairness": 0.02778472187501735,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.33333333333333328,
+          "total_votes": 5.0
+        },
+        "second_seed25": {
+          "histogram": [
+            3,
+            2,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.0,
+          "dissonance": 0.13333333333333337,
+          "ethelo": -0.8133279994666132,
+          "fairness": -0.07999466613327999,
+          "negative_votes": 5.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -0.7333333333333332,
+          "total_votes": 5.0
+        },
+        "second_seed4": {
+          "histogram": [
+            0,
+            1,
+            0,
+            3,
+            1
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.8,
+          "dissonance": 0.2222222222222222,
+          "ethelo": 0.4444222199997778,
+          "fairness": 0.1110888866664444,
+          "negative_votes": 1.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 4.0,
+          "support": 0.3333333333333334,
+          "total_votes": 5.0
+        },
+        "second_seed9": {
+          "histogram": [
+            1,
+            1,
+            0,
+            1,
+            2
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.6,
+          "dissonance": 0.7555555555555555,
+          "ethelo": 0.13666483342499548,
+          "fairness": -0.06333516657500457,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 3.0,
+          "support": 0.20000000000000005,
+          "total_votes": 5.0
+        },
+        "third_seed0": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "third_seed1": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "third_seed16": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "third_seed25": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "third_seed4": {
+          "histogram": [
+            1,
+            2,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.25,
+          "dissonance": 0.3333333333333333,
+          "ethelo": -0.33332500041664578,
+          "fairness": 0.000008332916687503467,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": -0.33333333333333328,
+          "total_votes": 4.0
+        },
+        "third_seed9": {
+          "histogram": [
+            1,
+            2,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.25,
+          "dissonance": 0.3333333333333333,
+          "ethelo": -0.33332500041664578,
+          "fairness": 0.000008332916687503467,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": -0.33333333333333328,
+          "total_votes": 4.0
+        }
+      },
+      "issues": {
+        "Cfifth": {
+          "histogram": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 4.0,
+          "approval": 0.0,
+          "dissonance": 0.0,
+          "ethelo": -0.5555555555555556,
+          "negative_votes": 1.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -0.11111111111111104,
+          "total_votes": 1.0
+        },
+        "Cfirst": {
+          "histogram": [
+            0,
+            2,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.0,
+          "dissonance": 0.032921810699588469,
+          "ethelo": -0.57269849069955,
+          "fairness": -0.3504762684773279,
+          "negative_votes": 4.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -0.22222222222222216,
+          "total_votes": 4.0
+        },
+        "Cfourth": {
+          "histogram": [
+            0,
+            2,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.0,
+          "dissonance": 0.032921810699588469,
+          "ethelo": -0.57269849069955,
+          "fairness": -0.3504762684773279,
+          "negative_votes": 4.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -0.22222222222222216,
+          "total_votes": 4.0
+        },
+        "Csecond": {
+          "histogram": [
+            0,
+            1,
+            3,
+            0,
+            0
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.0,
+          "dissonance": 0.020987654320987659,
+          "ethelo": -0.5157584482728108,
+          "fairness": -0.426869559383922,
+          "negative_votes": 2.0,
+          "neutral_votes": 3.0,
+          "positive_votes": 0.0,
+          "support": -0.08888888888888882,
+          "total_votes": 5.0
+        },
+        "Cthird": {
+          "histogram": [
+            0,
+            2,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.0,
+          "dissonance": 0.032921810699588469,
+          "ethelo": -0.57269849069955,
+          "fairness": -0.3504762684773279,
+          "negative_votes": 4.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -0.22222222222222216,
+          "total_votes": 4.0
+        }
+      }
+    }
+  },
+  {
+    "status": "success",
+    "config": {
+      "collective_identity": 0.5,
+      "tipping_point": 0.3333,
+      "minimize": false,
+      "global": false
+    },
+    "objective": -0.538745948668941,
+    "options": [
+      "fifth_seed0",
+      "fifth_seed1",
+      "fifth_seed4",
+      "second_seed1",
+      "second_seed4",
+      "second_seed9"
+    ],
+    "constraints": [],
+    "displays": [],
+    "stats": {
+      "global": {
+        "histogram": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "abstain_votes": 0.0,
+        "approval": 1.0,
+        "dissonance": 0.0011358024691358038,
+        "ethelo": 0.5384324358361763,
+        "fairness": 0.4584324358361762,
+        "negative_votes": 0.0,
+        "neutral_votes": 0.0,
+        "positive_votes": 5.0,
+        "support": 0.08000000000000007,
+        "total_votes": 5.0
+      },
+      "options": {
+        "fifth_seed0": {
+          "histogram": [
+            0,
+            0,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 4.0,
+          "approval": 1.0,
+          "dissonance": 0.0,
+          "ethelo": 0.6666666666666667,
+          "negative_votes": 0.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": 0.3333333333333335,
+          "total_votes": 1.0
+        },
+        "fifth_seed1": {
+          "histogram": [
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "abstain_votes": 4.0,
+          "approval": 1.0,
+          "dissonance": 0.0,
+          "ethelo": 1.0,
+          "negative_votes": 0.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": 1.0,
+          "total_votes": 1.0
+        },
+        "fifth_seed16": {
+          "histogram": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 4.0,
+          "approval": 0.0,
+          "dissonance": 0.0,
+          "ethelo": -1.0,
+          "negative_votes": 1.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -1.0,
+          "total_votes": 1.0
+        },
+        "fifth_seed25": {
+          "histogram": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 4.0,
+          "approval": 0.0,
+          "dissonance": 0.0,
+          "ethelo": -1.0,
+          "negative_votes": 1.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -1.0,
+          "total_votes": 1.0
+        },
+        "fifth_seed4": {
+          "histogram": [
+            0,
+            0,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 4.0,
+          "approval": 1.0,
+          "dissonance": 0.0,
+          "ethelo": 0.6666666666666667,
+          "negative_votes": 0.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": 0.3333333333333335,
+          "total_votes": 1.0
+        },
+        "fifth_seed9": {
+          "histogram": [
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 4.0,
+          "approval": 0.0,
+          "dissonance": 0.0,
+          "ethelo": -0.6666666666666666,
+          "negative_votes": 1.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -0.33333333333333328,
+          "total_votes": 1.0
+        },
+        "first_seed0": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "first_seed1": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "first_seed16": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "first_seed25": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "first_seed4": {
+          "histogram": [
+            1,
+            2,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.25,
+          "dissonance": 0.3333333333333333,
+          "ethelo": -0.33332500041664578,
+          "fairness": 0.000008332916687503467,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": -0.33333333333333328,
+          "total_votes": 4.0
+        },
+        "first_seed9": {
+          "histogram": [
+            1,
+            2,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.25,
+          "dissonance": 0.3333333333333333,
+          "ethelo": -0.33332500041664578,
+          "fairness": 0.000008332916687503467,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": -0.33333333333333328,
+          "total_votes": 4.0
+        },
+        "fourth_seed0": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "fourth_seed1": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "fourth_seed16": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "fourth_seed25": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "fourth_seed4": {
+          "histogram": [
+            1,
+            2,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.25,
+          "dissonance": 0.3333333333333333,
+          "ethelo": -0.33332500041664578,
+          "fairness": 0.000008332916687503467,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": -0.33333333333333328,
+          "total_votes": 4.0
+        },
+        "fourth_seed9": {
+          "histogram": [
+            1,
+            2,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.25,
+          "dissonance": 0.3333333333333333,
+          "ethelo": -0.33332500041664578,
+          "fairness": 0.000008332916687503467,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": -0.33333333333333328,
+          "total_votes": 4.0
+        },
+        "second_seed0": {
+          "histogram": [
+            2,
+            1,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.4,
+          "dissonance": 0.7555555555555557,
+          "ethelo": -0.13666483342499537,
+          "fairness": 0.0633351665750046,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.19999999999999996,
+          "total_votes": 5.0
+        },
+        "second_seed1": {
+          "histogram": [
+            0,
+            2,
+            0,
+            2,
+            1
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.6,
+          "dissonance": 0.31111111111111108,
+          "ethelo": 0.22662932959962676,
+          "fairness": 0.02662932959962666,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 3.0,
+          "support": 0.2000000000000001,
+          "total_votes": 5.0
+        },
+        "second_seed16": {
+          "histogram": [
+            2,
+            1,
+            0,
+            2,
+            0
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.4,
+          "dissonance": 0.44444444444444455,
+          "ethelo": -0.3055486114583159,
+          "fairness": 0.02778472187501735,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.33333333333333328,
+          "total_votes": 5.0
+        },
+        "second_seed25": {
+          "histogram": [
+            3,
+            2,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.0,
+          "dissonance": 0.13333333333333337,
+          "ethelo": -0.8133279994666132,
+          "fairness": -0.07999466613327999,
+          "negative_votes": 5.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -0.7333333333333332,
+          "total_votes": 5.0
+        },
+        "second_seed4": {
+          "histogram": [
+            0,
+            1,
+            0,
+            3,
+            1
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.8,
+          "dissonance": 0.2222222222222222,
+          "ethelo": 0.4444222199997778,
+          "fairness": 0.1110888866664444,
+          "negative_votes": 1.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 4.0,
+          "support": 0.3333333333333334,
+          "total_votes": 5.0
+        },
+        "second_seed9": {
+          "histogram": [
+            1,
+            1,
+            0,
+            1,
+            2
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.6,
+          "dissonance": 0.7555555555555555,
+          "ethelo": 0.13666483342499548,
+          "fairness": -0.06333516657500457,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 3.0,
+          "support": 0.20000000000000005,
+          "total_votes": 5.0
+        },
+        "third_seed0": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "third_seed1": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "third_seed16": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "third_seed25": {
+          "histogram": [
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.5,
+          "dissonance": 1.0092592592592594,
+          "ethelo": -0.08217598379340291,
+          "fairness": 0.08449068287326372,
+          "negative_votes": 2.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 2.0,
+          "support": -0.16666666666666664,
+          "total_votes": 4.0
+        },
+        "third_seed4": {
+          "histogram": [
+            1,
+            2,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.25,
+          "dissonance": 0.3333333333333333,
+          "ethelo": -0.33332500041664578,
+          "fairness": 0.000008332916687503467,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": -0.33333333333333328,
+          "total_votes": 4.0
+        },
+        "third_seed9": {
+          "histogram": [
+            1,
+            2,
+            0,
+            1,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.25,
+          "dissonance": 0.3333333333333333,
+          "ethelo": -0.33332500041664578,
+          "fairness": 0.000008332916687503467,
+          "negative_votes": 3.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 1.0,
+          "support": -0.33333333333333328,
+          "total_votes": 4.0
+        }
+      },
+      "issues": {
+        "Cfifth": {
+          "histogram": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 4.0,
+          "approval": 0.0,
+          "dissonance": 0.0,
+          "ethelo": -0.5555555555555556,
+          "negative_votes": 1.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -0.11111111111111104,
+          "total_votes": 1.0
+        },
+        "Cfirst": {
+          "histogram": [
+            0,
+            2,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.0,
+          "dissonance": 0.032921810699588469,
+          "ethelo": -0.57269849069955,
+          "fairness": -0.3504762684773279,
+          "negative_votes": 4.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -0.22222222222222216,
+          "total_votes": 4.0
+        },
+        "Cfourth": {
+          "histogram": [
+            0,
+            2,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.0,
+          "dissonance": 0.032921810699588469,
+          "ethelo": -0.57269849069955,
+          "fairness": -0.3504762684773279,
+          "negative_votes": 4.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -0.22222222222222216,
+          "total_votes": 4.0
+        },
+        "Csecond": {
+          "histogram": [
+            0,
+            1,
+            3,
+            0,
+            0
+          ],
+          "abstain_votes": 0.0,
+          "approval": 0.0,
+          "dissonance": 0.020987654320987659,
+          "ethelo": -0.5157584482728108,
+          "fairness": -0.426869559383922,
+          "negative_votes": 2.0,
+          "neutral_votes": 3.0,
+          "positive_votes": 0.0,
+          "support": -0.08888888888888882,
+          "total_votes": 5.0
+        },
+        "Cthird": {
+          "histogram": [
+            0,
+            2,
+            0,
+            0,
+            0
+          ],
+          "abstain_votes": 1.0,
+          "approval": 0.0,
+          "dissonance": 0.032921810699588469,
+          "ethelo": -0.57269849069955,
+          "fairness": -0.3504762684773279,
+          "negative_votes": 4.0,
+          "neutral_votes": 0.0,
+          "positive_votes": 0.0,
+          "support": -0.22222222222222216,
+          "total_votes": 4.0
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,307 @@
+{
+  "options": {
+    "b2d41ffc1704a8e1c270b466dfb76dc4": {
+      "id": "b2d41ffc1704a8e1c270b466dfb76dc4",
+      "title": "Neighborhood Law Program",
+      "issue": "33e9170c291f6c25ed6c41f568c2da3b",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "5b1ce2ed55de9a1ec9ce9483fab7089e",
+          "value": "150000",
+          "name": "cost"
+        }
+      ],
+      "name": "neighborhood_law_program"
+    },
+    "2b2caef4ea7441c2d5526a5a951e161d": {
+      "id": "2b2caef4ea7441c2d5526a5a951e161d",
+      "title": "Fire Rescue Vehicle",
+      "issue": "33e9170c291f6c25ed6c41f568c2da3b",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "d9e133a43e26e17c740177563711ce9f",
+          "value": "75000",
+          "name": "cost"
+        }
+      ],
+      "name": "fire_rescue_vehicle"
+    },
+    "a13b0aab08645e96148f9e6764f471fe": {
+      "id": "a13b0aab08645e96148f9e6764f471fe",
+      "title": "New Police Officers",
+      "issue": "33e9170c291f6c25ed6c41f568c2da3b",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "408912ce3e5bdbd7ea52ab788942c9d5",
+          "value": "400000",
+          "name": "cost"
+        }
+      ],
+      "name": "new_police_officers"
+    },
+    "5e79baf42375d43593fea4f1e3f4560a": {
+      "id": "5e79baf42375d43593fea4f1e3f4560a",
+      "title": "Beautification/Arts Block Grant",
+      "issue": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "68bcb936d1a8471c6722722d6a3d67f2",
+          "value": "400000",
+          "name": "cost"
+        }
+      ],
+      "name": "beautification_slash_arts_block_grant"
+    },
+    "a17def7257273c396557397aa8bcbc8b": {
+      "id": "a17def7257273c396557397aa8bcbc8b",
+      "title": "Improvement of Southern Waterfront",
+      "issue": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "3aa54e48adfc67b2ba27a24f5b742b79",
+          "value": "201000",
+          "name": "cost"
+        }
+      ],
+      "name": "improvement_of_southern_waterfront"
+    },
+    "d051809cab0e3e9cb5f60d833a9509f0": {
+      "id": "d051809cab0e3e9cb5f60d833a9509f0",
+      "title": "Improve Historic Area",
+      "issue": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "9f5f63c69723009caeadeea8575f1fd3",
+          "value": "300000",
+          "name": "cost"
+        }
+      ],
+      "name": "improve_historic_area"
+    },
+    "2802a93da504de1bbc1caad63ba53fe5": {
+      "id": "2802a93da504de1bbc1caad63ba53fe5",
+      "title": "Community Honey Bee Gardens",
+      "issue": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "bb5791a7f114da39c29fd434052555ff",
+          "value": "133000",
+          "name": "cost"
+        }
+      ],
+      "name": "community_honey_bee_gardens"
+    },
+    "e84f701aaa1c7f475fbb64579b31f480": {
+      "id": "e84f701aaa1c7f475fbb64579b31f480",
+      "title": "The Friends of River Park",
+      "issue": "a5accc0d38208374bd4ff7fc42426511",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "a76314ea3dd6ca525b585c0b5e7f30b0",
+          "value": "150000",
+          "name": "cost"
+        }
+      ],
+      "name": "the_friends_of_river_park"
+    },
+    "4ab31c287d0f2cca8b5bc80e67c5c40e": {
+      "id": "4ab31c287d0f2cca8b5bc80e67c5c40e",
+      "title": "Solar Panels on City Buildings",
+      "issue": "a5accc0d38208374bd4ff7fc42426511",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "5daad9b46b976ffaf9be5d1cbcccd2c3",
+          "value": "250000",
+          "name": "cost"
+        }
+      ],
+      "name": "solar_panels_on_city_buildings"
+    },
+    "cf352cd6b8322b67f946aaf699156c02": {
+      "id": "cf352cd6b8322b67f946aaf699156c02",
+      "title": "Homeless Shelter",
+      "issue": "d8d05475c498599d9d51cfee1dbffc53",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "21c06b93c31125213d5c85468d54e3db",
+          "value": "168000",
+          "name": "cost"
+        }
+      ],
+      "name": "homeless_shelter"
+    },
+    "3f949478b8300a11f290751bc0b1b74c": {
+      "id": "3f949478b8300a11f290751bc0b1b74c",
+      "title": "Mindfulness Training in Schools",
+      "issue": "d8d05475c498599d9d51cfee1dbffc53",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "d5f4e484b4383ed81cebd1ac50267c18",
+          "value": "65000",
+          "name": "cost"
+        }
+      ],
+      "name": "mindfulness_training_in_schools"
+    },
+    "ab220c8f553aa290494004d25fea9294": {
+      "id": "ab220c8f553aa290494004d25fea9294",
+      "title": "Community Pet Clinic",
+      "issue": "d8d05475c498599d9d51cfee1dbffc53",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "8263bee5f2c3f6e069bdf8c2e94b32c9",
+          "value": "290000",
+          "name": "cost"
+        }
+      ],
+      "name": "community_pet_clinic"
+    },
+    "879fd0337ee404f8f38b383aa14a3b9c": {
+      "id": "879fd0337ee404f8f38b383aa14a3b9c",
+      "title": "Better Street Lighting",
+      "issue": "d8d05475c498599d9d51cfee1dbffc53",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "df97317129bd817f54484a9acaef42d5",
+          "value": "295000",
+          "name": "cost"
+        }
+      ],
+      "name": "better_street_lighting"
+    },
+    "6d74792f40eb7079107fbb170715668b": {
+      "id": "6d74792f40eb7079107fbb170715668b",
+      "title": "Unemployment Training Centre",
+      "issue": "f22efa3d13a5269a5e9db0ce2b521182",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "8c8a6e23a386cd3003a3449ceee615b7",
+          "value": "175000",
+          "name": "cost"
+        }
+      ],
+      "name": "unemployment_training_centre"
+    },
+    "0341fb2ebdbd04595a2cff0d2cb807c0": {
+      "id": "0341fb2ebdbd04595a2cff0d2cb807c0",
+      "title": "Business/Non-Profit Resource Centre",
+      "issue": "f22efa3d13a5269a5e9db0ce2b521182",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "fc3a9e1e4340419899c5e4abbeaf001a",
+          "value": "180000",
+          "name": "cost"
+        }
+      ],
+      "name": "business_slash_non_profit_resource_centre"
+    },
+    "0c0dcf6202d0ee1122e6f1fbe812d733": {
+      "id": "0c0dcf6202d0ee1122e6f1fbe812d733",
+      "title": "Upgrade Parks",
+      "issue": "4e614a24db9cafe34f22054989d2a594",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "86c4db212c4c168a20cfd89c08848f22",
+          "value": "288000",
+          "name": "cost"
+        }
+      ],
+      "name": "upgrade_parks"
+    },
+    "5c3b81d6f0abcdd4cd81058607aea20b": {
+      "id": "5c3b81d6f0abcdd4cd81058607aea20b",
+      "title": "Teen Recreation Centre",
+      "issue": "4e614a24db9cafe34f22054989d2a594",
+      "characteristics": [
+        {
+          "title": "Cost",
+          "id": "b1b3f1eed44edd9cd563694a97c9f301",
+          "value": "225000",
+          "name": "cost"
+        }
+      ],
+      "name": "teen_recreation_centre"
+    }
+  },
+  "constraints": [
+    {
+      "bound_a": 1500000,
+      "bound_b": 1,
+      "boundary_type": "max",
+      "value_name": "total_cost_dollars",
+      "type": "calculated_value",
+      "group": null
+    }
+  ],
+  "callback_classes": [
+    "::Callbacks::ValueConstraints"
+  ],
+  "option_characteristics": [
+    "cost"
+  ],
+  "calculated_characteristics": [
+    {
+      "name": "total_cost_dollars",
+      "title": "Total Cost ($)",
+      "equation": "total_cost",
+      "visible": true
+    },
+    {
+      "name": "total2",
+      "title": "Total2",
+      "equation": "total_cost",
+      "visible": false
+    }
+  ],
+  "title": "Participatory Budget",
+  "name": "participatory_budget",
+  "option_vote_bins": 7,
+  "issues": [
+    {
+      "id": "33e9170c291f6c25ed6c41f568c2da3b",
+      "title": "Police and Fire Services",
+      "name": "police_and_fire_services"
+    },
+    {
+      "id": "9ffd0fa0d43f0ea53c03d1ea87438eb9",
+      "title": "City Improvements",
+      "name": "city_improvements"
+    },
+    {
+      "id": "a5accc0d38208374bd4ff7fc42426511",
+      "title": "Environment",
+      "name": "environment"
+    },
+    {
+      "id": "d8d05475c498599d9d51cfee1dbffc53",
+      "title": "Health and Safety",
+      "name": "health_and_safety"
+    },
+    {
+      "id": "f22efa3d13a5269a5e9db0ce2b521182",
+      "title": "Education",
+      "name": "education"
+    },
+    {
+      "id": "4e614a24db9cafe34f22054989d2a594",
+      "title": "Recreation",
+      "name": "recreation"
+    }
+  ]
+}

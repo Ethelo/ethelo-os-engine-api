@@ -1,0 +1,478 @@
+[
+  {
+    "total_votes": 3,
+    "support": 0.5,
+    "scenario_set_id": 1,
+    "positive_votes": 4,
+    "option_id": 2,
+    "neutral_votes": 0,
+    "negative_votes": 0,
+    "histogram": [
+      0,
+      0,
+      0,
+      2,
+      2
+    ],
+    "ethelo": 0.5,
+    "dissonance": 0.25,
+    "default": true,
+    "decision_id": 1,
+    "approval": 0.6666666666666666,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": 0.10546875000000001,
+    "scenario_set_id": 1,
+    "positive_votes": 2,
+    "option_id": 4,
+    "neutral_votes": 0,
+    "negative_votes": 2,
+    "histogram": [
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "ethelo": 0.10546875000000001,
+    "dissonance": 0.2843780517578125,
+    "default": true,
+    "decision_id": 1,
+    "approval": 0.3333333333333333,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": -0.5,
+    "scenario_set_id": 1,
+    "positive_votes": 0,
+    "option_id": 1,
+    "neutral_votes": 0,
+    "negative_votes": 4,
+    "histogram": [
+      2,
+      2,
+      0,
+      0,
+      0
+    ],
+    "ethelo": -0.5,
+    "dissonance": 0.25,
+    "default": true,
+    "decision_id": 1,
+    "approval": 0.0,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": 0.4830729166666667,
+    "scenario_set_id": 1,
+    "positive_votes": 3,
+    "option_id": 3,
+    "neutral_votes": 0,
+    "negative_votes": 1,
+    "histogram": [
+      0,
+      0,
+      1,
+      1,
+      2
+    ],
+    "ethelo": 0.4830729166666667,
+    "dissonance": 0.18344624837239584,
+    "default": true,
+    "decision_id": 1,
+    "approval": 0.6666666666666666,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": -0.3606770833333333,
+    "scenario_set_id": 1,
+    "positive_votes": 1,
+    "option_id": 5,
+    "neutral_votes": 0,
+    "negative_votes": 3,
+    "histogram": [
+      2,
+      0,
+      1,
+      1,
+      0
+    ],
+    "ethelo": -0.3606770833333333,
+    "dissonance": 0.10599263509114584,
+    "default": true,
+    "decision_id": 1,
+    "approval": 0.0,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": 0.5,
+    "scenario_set_id": 1,
+    "positive_votes": 2,
+    "option_id": 2,
+    "neutral_votes": 0,
+    "negative_votes": 0,
+    "histogram": [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "ethelo": 0.5,
+    "dissonance": 0.25,
+    "default": true,
+    "decision_id": 1,
+    "criteria_id": 2,
+    "average_weight": 36.0,
+    "approval": 0.6666666666666666,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": 0.5,
+    "scenario_set_id": 1,
+    "positive_votes": 2,
+    "option_id": 2,
+    "neutral_votes": 0,
+    "negative_votes": 0,
+    "histogram": [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "ethelo": 0.5,
+    "dissonance": 0.25,
+    "default": true,
+    "decision_id": 1,
+    "criteria_id": 1,
+    "average_weight": 69.5,
+    "approval": 0.6666666666666666,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": 0.0,
+    "scenario_set_id": 1,
+    "positive_votes": 1,
+    "option_id": 4,
+    "neutral_votes": 0,
+    "negative_votes": 1,
+    "histogram": [
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "ethelo": 0.0,
+    "dissonance": 1.0,
+    "default": true,
+    "decision_id": 1,
+    "criteria_id": 2,
+    "average_weight": 36.0,
+    "approval": 0.3333333333333333,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": 0.16666666666666666,
+    "scenario_set_id": 1,
+    "positive_votes": 1,
+    "option_id": 4,
+    "neutral_votes": 0,
+    "negative_votes": 1,
+    "histogram": [
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "ethelo": 0.16666666666666666,
+    "dissonance": 0.08333333333333334,
+    "default": true,
+    "decision_id": 1,
+    "criteria_id": 1,
+    "average_weight": 69.5,
+    "approval": 0.3333333333333333,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": -0.5,
+    "scenario_set_id": 1,
+    "positive_votes": 0,
+    "option_id": 1,
+    "neutral_votes": 0,
+    "negative_votes": 2,
+    "histogram": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "ethelo": -0.5,
+    "dissonance": 0.25,
+    "default": true,
+    "decision_id": 1,
+    "criteria_id": 2,
+    "average_weight": 36.0,
+    "approval": 0.0,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": -0.5,
+    "scenario_set_id": 1,
+    "positive_votes": 0,
+    "option_id": 1,
+    "neutral_votes": 0,
+    "negative_votes": 2,
+    "histogram": [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "ethelo": -0.5,
+    "dissonance": 0.25,
+    "default": true,
+    "decision_id": 1,
+    "criteria_id": 1,
+    "average_weight": 69.5,
+    "approval": 0.0,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": 0.16666666666666666,
+    "scenario_set_id": 1,
+    "positive_votes": 1,
+    "option_id": 3,
+    "neutral_votes": 0,
+    "negative_votes": 1,
+    "histogram": [
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "ethelo": 0.16666666666666666,
+    "dissonance": 0.08333333333333334,
+    "default": true,
+    "decision_id": 1,
+    "criteria_id": 2,
+    "average_weight": 36.0,
+    "approval": 0.3333333333333333,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": 0.6666666666666666,
+    "scenario_set_id": 1,
+    "positive_votes": 2,
+    "option_id": 3,
+    "neutral_votes": 0,
+    "negative_votes": 0,
+    "histogram": [
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    "ethelo": 0.6666666666666666,
+    "dissonance": 0.33333333333333337,
+    "default": true,
+    "decision_id": 1,
+    "criteria_id": 1,
+    "average_weight": 69.5,
+    "approval": 0.6666666666666666,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": 0.16666666666666666,
+    "scenario_set_id": 1,
+    "positive_votes": 1,
+    "option_id": 5,
+    "neutral_votes": 0,
+    "negative_votes": 1,
+    "histogram": [
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "ethelo": 0.16666666666666666,
+    "dissonance": 0.08333333333333334,
+    "default": true,
+    "decision_id": 1,
+    "criteria_id": 2,
+    "average_weight": 36.0,
+    "approval": 0.3333333333333333,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": -0.6666666666666666,
+    "scenario_set_id": 1,
+    "positive_votes": 0,
+    "option_id": 5,
+    "neutral_votes": 0,
+    "negative_votes": 2,
+    "histogram": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ethelo": -0.6666666666666666,
+    "dissonance": 0.33333333333333337,
+    "default": true,
+    "decision_id": 1,
+    "criteria_id": 1,
+    "average_weight": 69.5,
+    "approval": 0.0,
+    "advanced_stats": [
+      0,
+      0
+    ],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": -0.197265625,
+    "scenario_set_id": 1,
+    "positive_votes": 0,
+    "neutral_votes": 0,
+    "negative_votes": 0,
+    "issue_id": 2,
+    "histogram": [],
+    "ethelo": -0.197265625,
+    "dissonance": 0.048145294189453125,
+    "default": true,
+    "decision_id": 1,
+    "average_weight": 100.0,
+    "approval": 0.0,
+    "advanced_stats": [],
+    "abstain_votes": 0
+  },
+  {
+    "total_votes": 3,
+    "support": 0.20746527777777776,
+    "scenario_set_id": 1,
+    "positive_votes": 0,
+    "neutral_votes": 0,
+    "negative_votes": 0,
+    "issue_id": 3,
+    "histogram": [],
+    "ethelo": 0.20746527777777776,
+    "dissonance": 0.03922582555700231,
+    "default": true,
+    "decision_id": 1,
+    "average_weight": 64.0,
+    "approval": 0.6666666666666666,
+    "advanced_stats": [],
+    "abstain_votes": 0
+  },
+  {
+    "vote_allocation": 0,
+    "total_votes": 3,
+    "support": 0.23776584201388892,
+    "seeds_assigned": 0,
+    "seed_allocation": 0,
+    "scenario_set_id": 1,
+    "scenario_id": 1,
+    "positive_votes": 2,
+    "positive_seed_votes_sum": 0,
+    "positive_seed_votes_sq": 0,
+    "neutral_votes": 0,
+    "negative_votes": 1,
+    "histogram": [
+      0,
+      0,
+      1,
+      2,
+      0
+    ],
+    "final_allocation": 0,
+    "ethelo": 0.23776584201388892,
+    "dissonance": 0.05961960112607038,
+    "default": true,
+    "decision_id": 1,
+    "combined_allocation": 0,
+    "approval": 0.6666666666666666,
+    "advanced_stats": [],
+    "abstain_votes": 0
+  }
+]
