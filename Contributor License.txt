@@ -1,7 +1,7 @@
 Contributor License Agreement for Ethelo Decisions Inc. & Ethelo Democracy Inc.
 
-Thank you for your interest in participating in the community development of the Ethelo Engine.
-
+Thank you for your interest in participating in the community development of the Ethelo Api.
+ 
 In order to clarify the intellectual property license granted with contributions
 of software from any person or entity (the "Contributor"), Ethelo Decisions Inc.
 & Ethelo Democracy Inc. requires each contributor to sign this agreement
@@ -13,7 +13,7 @@ contributions for any other purpose.
 
 You hereby accept and agree to the following terms and conditions:
 1. Your "Contributions" means all of your past, present and future contributions
-of object code, source code and documentation to Ethelo Engine, however submitted,
+of object code, source code and documentation to Ethelo Api, however submitted,
 excluding only any submissions that are conspicuously marked or otherwise
 designated in writing by You as "Not a Contribution."
 
